@@ -1,0 +1,1007 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="it">
+  <texts>
+    <!--new Feedback-->
+    <text name="FunctionType" value="Function type" />
+    <text name="ProblemType" value="Problem type" />
+    <text name="ProblemDescription" value="Problem description" />
+    <!--new Feedback end-->
+  
+    <!--User activities query - start-->
+    <text name="UserActivitiesQuery" value="User Activities Query" />
+    <!--User activities query - end-->
+
+    <!--Reward record start-->
+    <text name="RewardRecords" value="Reward Records"/>
+    <!--Reward record end-->
+
+    <!--Social accounts management -start-->
+    <text name="SocialAccountsUnlinkTips" value="Are you sure you want to unlink your social account {0} ?" />
+    <text name="UnlinkSuccessfully" value="Unlink successfully !" />
+    <!--Social accounts management -start-->
+
+    <!--Telegram Group Reply-start-->
+    <text name="TelegramReplyAtGroup" value="Recognized support in group" />
+    <text name="TelegramReplyInGroupShortCut" value="Go to group" />
+    <!--Telegram Group Reply-end-->
+
+    <!--Reward History-start-->
+    <text name="RewardType" value="Reward Type" />
+    <text name="RewardHistoryUserReward" value="User Reward" />
+    <text name="RewardHistoryCreationTime" value="Creation Time" />
+    <text name="AllReward" value="All Reward" />
+    <!--Reward History-end-->
+
+    <!--Feedback-->
+    <text name="Feedback" value="Feedback" />
+    <text name="FeedbackThanks" value="Thank you for your feedback!" />
+    <text name="FeedbackEmail" value="Email"/>
+    <!--Feedback end-->
+
+    <!--modify invite link-->
+    <text name="InviteLink" value="Invite Link"/>
+    <text name="CopyInviteLinkSuccess" value="Copy Invite Link Success!" />
+    <!--modify invite link end-->
+
+
+    <!--Withdrawal Email Confirmation-start-->
+    <text name="EmailWithDrawalConfirm_eth" value="il tuo indirizzo Ethereum è " />
+    <text name="EmailWithDrawalConfirm_amount" value="l'ammontare del prelievo è " />
+    <text name="EmailWithDrawalConfirm_Subject" value="Candy System Withdrawal Confirmation Email" />
+    <text name="EmailWithDrawalConfirm_Title" value="Conferma prelievo" />
+    <text name="EmailWithDrawalConfirm_ClickTheLinkBelowToVerifyYourEmail" value="Per favore fai click sul link sottostante per confermare il prelievo." />
+    <text name="SendEmailForWithdrawalConfirmationSuccessTips" value="Withdrawal confirmation Email has been sent, please check your Email!" />
+    <text name="WithdrawalTokenExpiredOrWrongHint" value="The link is expired or wrong! Please resubmit the withdrawal request!" />
+    <!--Withdrawal Email Confirmation-end-->
+
+    <!--Withdrawal Records Administration And User Withdrawal Records-start-->
+    <text name="WithdrawalRecords" value="Withdrawal Records" />
+    <text name="WithdrawalRecordsHeaderInfo" value="View and change the withdrawal records" />
+    <text name="CompleteWithdrawal" value="Success" />
+    <text name="UndoWithdrawal" value="Processing" />
+    <text name="WithdrawalRecordUserEmailAddress" value="Email" />
+    <text name="WithdrawalRecordBalance" value="Withdrawal Amount" />
+    <text name="WithdrawalRecordEthAddress" value="Withdrawal Address" />
+    <text name="WithdrawalRecordStatus" value="Withdrawal Status" />
+    <text name="WithdrawalComplete" value="Succeed" />
+    <text name="WithdrawalPending" value="Processing" />
+    <text name="WithdrawalNoSet" value="Confirmed" />
+    <text name="WithdrawalFailed" value="Failed" />
+    <text name="WithdrawalRecordCreationTime" value="Creation Time" />
+    <text name="WithdrawalRecordUpdateStatusWarningToPendingMessage" value="Mark withdrawal records as processing" />
+    <text name="WithdrawalRecordUpdateStatusWarningToSucceedMessage" value="Mark withdrawal records as success" />
+    <text name="WithdrawalCanceled" value="Canceled" />
+    <text name="CancelWithdrawalMessage" value="Cancel withdrawal, the amount will be added to balance of users" />
+    <text name="WithdrawalRecordUpdateStatusWarningToNoSetMessage" value="Mark withdrawal record as init" />
+    <text name="CancelWithdrawal" value="Cancel" />
+    <text name="InitWithdrawal" value="Init" />
+    <text name="ProcessWithdrawal" value="Process" />
+    <text name="WithdrawalRecordNotExist" value="Withdrawal record {0} doesn't exist !" />
+    <text name="WithdrawalRecordStatusIsNotNoSet" value="The status of withdrawal record {0} is not NoSet status !" />
+    <!--Withdrawal Records Administration And User Withdrawal Records-end-->
+
+    <!-- Telegram bot Activity start-->
+    <text name="Telegram_Msg_private_bind" value="You have successfully connected your Candy account！Start adding members into our group!
+https://t.me/aelfblockchain" />
+    <text name="Telegram_Msg_private_URL" value="Click the link below to connect your Candy account to bot and claim your reward：" />
+    <text name="Telegram_Msg_private_candy" value="You have earned Token! Check out more details：" />
+    <text name="Telegram_Change_Bot_Language" value="Italiano language is set." />
+    <text name="Telegram_ChangeLanguage" value="Italiano 🇮🇹" />
+    <!-- Telegram bot Activity end-->
+ 
+    <!--Email Resend start-->
+    <text name="Resend" value="Resend" />
+    <!--Email Resend end-->
+
+    <!--Telegram Group Administration-start-->
+    <text name="TelegramGroupDeleteWarningMessage" value="Messaggio di Avvertimento di Cancellazione Gruppi Telegram" />
+    <text name="TelegramGroups" value="Grouppi Telegram" />
+    <text name="TelegramGroupsHeaderInfo" value="Testata info Grouppi Telegram " />
+    <text name="CreateNewTelegramGroup" value="Creare un nuovo gruppo Telegram" />
+    <text name="TelegramGroupId" value="id gruppo Telegram" />
+    <text name="TelegramGroupTitle" value="Titolo Del Gruppo Telegram" />
+    <text name="TelegramGroupLanguage" value="Linguaggio Del Gruppo Telegram" />
+    <text name="TelegramGroupUrl" value="TelegramGruppoUrl" />
+    <text name="TelegramGroupRank" value="TelegramGruppoRank" />
+    <text name="EditTelegramGroup" value="ModificaTelegramGruppo" />
+    <!--Telegram Group Administration-end-->
+
+    <!--SMS Verify-start-->
+    <text name="PhoneNumberIsVerified" value="Verificato" />
+    <text name="ChangePhoneNumber" value="Cambia Numero di Telefono" />
+    <text name="VerifyPhoneNumber" value="Verifica il Numero di Telefono" />
+    <text name="UserNotBindMobilePhone" value="L'utente Corrente non è Connesso al Numero di Cellulare!" />
+    <text name="MobileVerificationCodeIsExpired" value="Il codice di Verifica Mobile è Scaduto!" />
+    <text name="MobileVerificationCodeNotMatch" value="Il codice di verifica mobile non è corretto!" />
+    <text name="InvalidPhoneNumber" value="Il numero di cellulare non è corretto!" />
+    <!--SMS Verify-end-->
+
+    <!--提现-开始-->
+    <text name="InterestRule1" value="Dopo 30 giorni, il tuo Token ricompensato sarà disponibile per il ritiro o la raccolta di interessi;"  />
+    <text name="InterestRule2" value="Una quantità di token Token, come puoi vedere sopra, verrà data come interesse per gli Token disponibili ogni 24 ore;" />
+    <text name="InterestRule3" value="Non riceverai interessi per gli Token che hai ritirato;" />
+    <text name="InterestRule4" value="Interesse giornaliero = il tuo Token disponibile / Token disponibile da tutti i partecipanti * Quantità totale di Interessi erogati nelle stesse 24 ore;" />
+    <text name="InterestRule5" value="Se viene rilevato un qualsiasi tipo di imbroglio, gli account associati verranno terminati, tutti i premi precedenti verranno ripristinati a zero;" />
+    <text name="InterestRule6" value="Tutti i diritti riservati alla fondazione." />
+    <text name="InterestReward" value="Premio di Interessi" />
+    <text name="AvailableReward" value="Ricompensa Disponibile" />
+    <text name="ExpectedInterest" value="Interessi Attesi" />
+    <text name="InterestHistory" value="Cronologia Interessi" />
+    <text name="WithdrawDepositTips1">L'importo minimo richiesto per prelevare è 1 Token. </text>
+    <text name="WithdrawDepositTips2">Il processo di prelievo richiederà fino a 5 giorni lavorativi.</text>
+    <text name="WithdrawDepositTips3">Dopo 30 giorni, il tuo premio in Token sarà disponibile per il prelievo o gli interessi.</text>
+    <text name="WithdrawDepositTips4">Non riceverai interessi per l'Token che hai ritirato.</text>
+    <text name="ELFWithdrawDeposit" value="Prelievo" />
+    <text name="WithdrawDepositConfirmTips" value="L'importo prelevato non riceverà più interessi. Per favore conferma il tuo indirizzo ETH.{0}." />
+    <text name="WithdrawDeposit" value="Prelievo" />
+    <text name="AssetAmount" value="Disponibile" />
+    <text name="WithdrawDepositSuccessTips" value="Prelievo effettuato con Successo" />
+    <text name="WithdrawDepositFailTips" value="Prelievo Fallito" />
+    <text name="WithdrawalAddressCanNotBeNull" value="Wallet address can not be null!" />
+    <text name="FrozenAssetAmount" value="To be released" />
+    <!--提现-结束-->
+
+    <!--Reward Amount-start-->
+    <text name="RewardDeclaration" value="Ricompensa totale per oggi" />
+    <text name="AssignmentRewardAmount1" value="La ricompensa totale di oggi per l'assegnazione: " />
+    <text name="AssignmentRewardAmount2" value="{0}Token" />
+    <text name="InfluenceRewardAmount1" value="La ricompensa totale di oggi per l'influence: " />
+    <text name="InfluenceRewardAmount2" value="{0}Token" />
+    <text name="InterestRewardAmount1" value="La ricompensa totale di oggi per l'interesse: " />
+    <text name="InterestRewardAmount2" value="{0}Token" />
+    <!--Reward Amount-end-->
+
+    <text name="Invitation_Code_Hint" value="Il codice di invito deve includere cifre (0-9) e caratteri alfanumerici (a-zA-Z)" />
+    <text name="BindTelegramRobotResultSuccess" value="Connesso al bot di Telegram con successo!" />
+    <text name="BindTelegramRobotResultFailure" value="Connesso al bot di Telegram senza successo, si prega di riprovare!" />
+    <text name="NetworkDetail" value="Dettaglio dell'influence" />
+    <text name="ChangePassword" value="Resetta la password" />
+    <text name="PasswordsMatch_Hint" value="La password non corrisponde" />
+    <text name="Require_Hint" value="{0} è obbligatorio" />
+    <text name="Email_Format_Hint" value="Inserisci indirizzo email valido." />
+    <text name="VersionDeclaration" value="Questo è solo per il test, non verrà dato alcun premio reale!" />
+
+
+    <text name="CreditEarned" value="I miei punti guadagnati" />
+    <text name="TotalCreditEarned" value="Punti totali guadagnati" />
+    <text name="CreditRank" value="Punteggio Rank" />
+    <text name="ExpectedReward" value="Ricompensa attesa" />
+    <text name="AllAvailableActivityPackages" value="Tutti i pacchetti di attività disponibili." />
+    <text name="InvitationCode" value="Codice di invito" />
+    <text name="InvitationLink" value="Link di invito" />
+    <text name="CopyToClipboard" value="Copia negli appunti" />
+    <text name="SecretCodeForTelegramRobot" value="Codice segreto usato per collegare il robot Telegram" />
+    <text name="SocialLink" value="Social Link" />
+    <text name="IncomeSummary" value="Elenco delle Entrate" />
+    <text name="ActivityPackagesList" value="Elenco dei pacchetti di attività" />
+    <text name="BindTelegramRobotMessage" value="Colleghi il robot di Telegram?" />
+    <text name="BindTelegramRobotTip" value="Fai clic sul pulsante in basso per collegare il robot Telegram. È possibile ottenere la ricompensa del token parlando attivamente nel gruppo di Telegram dopo il collegamento!" />
+    <text name="BindTelegramRobot" value="Collegarsi al Telegram Robot" />
+    <text name="Specification" value="Specifiche" />
+    <text name="CreditDetail" value="Dettaglio di assegnazione" />
+
+    <!--Activity Rules-start-->
+    <text name="ActivityRule1" value="Una quantità di token, come puoi vedere sopra, verrà assegnata come ricompensa degli incarichi a tutti i partecipanti ogni 24 ore;" />
+    <text name="ActivityRule2" value="Completa i compiti sottostanti per guadagnare punti, che vengono poi utilizzati per calcolare la quantità totale di token ricompensati alla fine di ogni 24 ore;" />
+    <text name="ActivityRule3" value="L'importo di Token ricompensato = i punti totali / punti totali combinati da tutti i partecipanti * Quantità totale di Token dato nelle stesse 24 ore;" />
+    <text name="ActivityRule4" value="Il prelievo di Token sarà disponibile un mese dopo il guadagno;" />
+    <text name="ActivityRule5" value="Se viene rilevato un qualsiasi tipo di imbroglio, gli account associati verranno terminati, tutti i premi precedenti verranno ripristinati a zero;" />
+    <text name="ActivityRule6" value="Tutti i diritti riservati alla fondazione." />
+    <text name="ActivityRuleNote" value="(Nota: il tuo account DEVE essere prima collegato al tuo account Twitter, Telegram o GitHub prima di poter iniziare a guadagnare punti attraverso tali piattaforme!)" />
+    <text name="ActivityRule7" value="Più follower hai sui social media, più punti otterrai dall'interazione dei tweet ufficiali. Ad esempio, 1 ~ 100 follower raddoppieranno i tuoi punti twitter; 101 ~ 1000 follower triplicheranno i tuoi punti; 1001 ~ 10000 saranno 5 volte tanto, più di 10000 volte, saranno 10 volte tanto;" />
+    <text name="Rule." value="Rule.{0}:" />
+    <text name="Rules" value="Rules" />
+    <text name="Multiplier" value="Moltiplicatore" />
+    <!--Activity Rules-end-->
+
+    <text name="ETHAddress" value="ETH address" />
+    <text name="WalletAddress" value="Wallet address" />
+    <text name="ETHMessage" value="" />
+
+    <!--HierarchicalReward-start-->
+    <text name="HierarchicalRewardRule1" value="I partecipanti invitati direttamente da te o dai tuoi invitati, fino a 8 gradi, riflettono la tua influence;" />
+    <text name="HierarchicalRewardRule2" value="Una quantità di token, come puoi vedere sopra, verrà assegnata come ricompensa d'influence a tutti i partecipanti ogni 24 ore;" />
+    <text name="HierarchicalRewardRule3" value="Quando i membri sotto la tua influence hanno completato gli incarichi, puoi guadagnare punti influence in base ai loro gradi nell'influence, che vengono poi utilizzati per calcolare l'ammontare totale di token ricompensati alla fine di ogni 24 ore; (Vedi metodo di calcolo nella tabella sottostante) " />
+    <text name="HierarchicalRewardRule4" value="I punti totali che hai guadagnato influenzando gli altri = somma dei punti guadagnati in ciascun grado; (Maggiori dettagli nella tabella sottostante)" />
+    <text name="HierarchicalRewardRule5" value="L'ammontare di Token in premio = I punti totali che hai guadagnato influenzando gli altri / i punti totali di tutti i partecipanti guadagnati attraverso l'influenza * Quantità totale di Token dato nelle stesse 24 ore;" />
+    <text name="HierarchicalRewardRule6" value="Il prelievo di Token sarà consentito un mese dopo il guadagno;" />
+    <text name="HierarchicalRewardRule7" value="Se viene rilevato un qualsiasi tipo di imbroglio, gli account associati verranno terminati, tutti i premi precedenti verranno ripristinati a zero;" />
+    <text name="HierarchicalRewardRule8" value="Tutti i diritti riservati alla fondazione." />
+    <text name="CreditHierarchy" value="Livello di Infuence" />
+    <text name="Subordinate" value="Numero di membri" />
+    <text name="HierarchicalCredit" value="Punti di assegnazione guadagnati da altri" />
+    <text name="RewardCoefficient" value="Ratio" />
+    <text name="RewardCredit" value="Punti Influence guadagnati" />
+    <text name="Degree1" value="Grado 1" />
+    <text name="Degree2" value="Grado 2" />
+    <text name="Degree3" value="Grado 3" />
+    <text name="Degree4" value="Grado 4" />
+    <text name="Degree5" value="Grado 5" />
+    <text name="Degree6" value="Grado 6" />
+    <text name="Degree7" value="Grado 7" />
+    <text name="Degree8" value="Grado 8" />
+    <text name="HierarchicalReward_PreviousPoints" value="Previous Points" />
+    <text name="HierarchicalReward_PreviousRank" value="Previous Rank" />
+    <text name="HierarchicalReward_PreviousReward" value="Previous Reward" />
+    <text name="HierarchicalReward_RewardHistory" value="Storia dei premi" />
+    <!--HierarchicalReward-end-->
+
+    <!--Count Down-start-->
+    <text name="CountDown" value="Countdown" />
+    <text name="Weeks" value="W" />
+    <text name="Days" value="D" />
+    <text name="Hours" value="H" />
+    <text name="Minutes" value="M" />
+    <text name="Seconds" value="S" />
+    <text name="MilliSeconds" value="MS" />
+    <!--Count Down-end-->
+
+    <text name="HierarchicalReward" value="Punti Influence" />
+    <text name="SocialBinding" value="Accounts" />
+
+    <!--Activity-start-->
+    <text name="RewardHistory" value="Storia dei premi" />
+    <text name="ActivityReward" value="Punti assegnati" />
+    <text name="GoToGroup" value="Vai al gruppo e aggiungi membri" />
+    <text name="Bound" value="Verificato" />
+    <text name="BoundEmail" value="Verificato" />
+    <text name="OAuthBound" value="Connesso" />
+    <text name="UnboundTips" value="Connettiti a {0} prima facendo clic sul pulsante in alto" />
+    <text name="CopyInvitationLink" value="Copia il link d'invito" />
+    <text name="BoundPhone" value="Telefono non associato, fare clic per associare il telefono" />
+    <text name="ActivityDescription" value="Lista di assegnazione" />
+    <text name="CreditsEveryTime" value="Punti per azione" />
+    <text name="UpperLimitOfTimes" value="Times Maximum" />
+    <text name="ObtainedCredits" value="Punti di oggi" />
+    <text name="ShortcutActionsAndStatus" value="Collegamento e stato" />
+    <text name="UnboundTelegramTips" value="Telegram non associato, fare clic per associare" />
+    <text name="OAuthGitHub" value="Connetti a Github" />
+    <text name="OAuthFacebook" value="Connetti a Facebook" />
+    <text name="OAuthTwitter" value="Connetti a Twitter" />
+    <text name="OAuthGoogle" value="Connetti a Google" />
+    <text name="LinkTel" value="Collega telefono" />
+    <text name="LinkEmail" value="Verifica Email" />
+    <text name="Inviter" value="Invita amici" />
+    <text name="FavoriteTweet" value="Metti mi piace ai tweets di official" />
+    <text name="ReplyTweet" value="Rispondi ai tweets di official" />
+    <text name="SendTweet" value="Tweet a official account" />
+    <text name="ShareTweet" value="Retweet da official account" />
+    <text name="FollowTwitter" value="Segui account ufficiale di Twitter" />
+    <text name="TelegramInviteNewMember" value="Aggiungi membri ai gruppi Telegram" />
+    <text name="TelegramAddBot" value="Connetti a Telegram" />
+    <text name="Unlimit" value="senza limite" />
+    <text name="unboundTelegramTips1" value="Connetti prima l'account nel nostro bot di Telegram " />
+    <text name="unboundTelegramTips2" value="@bot" />
+    <text name="unboundTelegramTips3" value=" and enter /start" />
+    <text name="SubscribeReddit" value="Subscribe" />
+    <text name="UpvoteReddit" value="Upvote" />
+    <text name="TelegramChannel" value="Follow channel" />
+    <!--Activity-end-->
+
+
+    <text name="UnsportStatus{0}" value="Unsport stato {0}" />
+    <text name="UnsportType{0}" value="Unsport tipo {0}" />
+    <text name="ClickToRedirect{0}" value="Clicca per reindirizzare {0}" />
+    <text name="HomePage" value="Home" />
+    <text name="AboutUs" value="Su di noi" />
+    <text name="Administration" value="Amministrazione" />
+    <text name="Roles" value="ruoli" />
+    <text name="Users" value="Utenti" />
+    <text name="User" value="Utente	" />
+    <text name="Activities" value="attività" />
+    <text name="CreatingNewActivity" value="Crea nuova attività" />
+    <text name="EditingActivity" value="modifica attività" />
+    <text name="DeletingActivity" value="Cancella attività" />
+    <text name="ActivityPackages" value="Pacchetti di attività" />
+    <text name="CreatingNewActivityPackage" value="Crea un nuovo pacchetto di attività" />
+    <text name="EditingActivityPackage" value="Modifica pacchetto attività" />
+    <text name="DeletingActivityPackage" value="Elimina pacchetto attività" />
+    <text name="InvalidFormMessage" value="Il tuo modulo non è valido. Si prega di controllare e correggere." />
+    <text name="InvalidUserNameOrPassword" value="Nome utente o password errati" />
+    <text name="ThereIsNoTenantDefinedWithName{0}" value="Non esiste un detentore definito con il nome {0}" />
+    <text name="TenantIsNotActive" value="detentore {0} non è attivo." />
+    <text name="UserIsNotActiveAndCanNotLogin" value="L'utente {0} non è attivo e non può accedere." />
+    <text name="PleaseEnterLoginInformation" value="Si prega di inserire le informazioni di accesso" />
+    <text name="TenancyName" value="Nome di locazione" />
+    <text name="UserEmail" value="Email" />
+    <text name="UserNameOrEmail" value="User name/email" />
+    <text name="UserNameOrEmailOrPhoneNumber" value="User name/email/numero di telefono" />
+    <text name="Password" value="Password" />
+    <text name="RememberMe" value="Ricordami" />
+    <text name="SignIn" value="SIGN IN" />
+    <text name="SignUp" value="SIGN UP" />
+    <text name="LogIn" value="Log in" />
+    <text name="ForgotPassword" value="RESETTA PASSWORD" />
+    <text name="DontYouHaveAnAccount" value="Non hai un account?" />
+    <text name="CreateAnAccount" value="Crea un account" />
+    <text name="Pages" value="Pagine" />
+    <text name="RoleName" value="Nome del ruolo" />
+    <text name="EditRole" value="Modifica ruolo" />
+    <text name="CreateNewRole" value="Crea un nuovo ruolo" />
+    <text name="RoleProperties" value="Proprietà del ruolo" />
+    <text name="Permissions" value="Permessi" />
+    <text name="Save" value="Salva" />
+    <text name="Cancel" value="Annullamento" />
+    <text name="RolesHeaderInfo" value="Utilizzare i ruoli per raggruppare le autorizzazioni." />
+    <text name="Static" value="Statico" />
+    <text name="Actions" value="Azioni" />
+    <text name="Delete" value="Cancella" />
+    <text name="SavedSuccessfully" value="Salvato con successo." />
+    <text name="AreYouSure" value="Sei sicuro?" />
+    <text name="YesDelete" value="Si, cancella!" />
+    <text name="DeletingUser" value="Cancella user" />
+    <text name="UsersHeaderInfo" value="Gestisci usenti e permessi." />
+    <text name="CreateNewUser" value="Crea nuovo utente" />
+    <text name="UserName" value="Nome utente" />
+    <text name="Name" value="Nome" />
+    <text name="Surname" value="Cognome" />
+    <text name="EmailAddress" value="indirizzo Email" />
+    <text name="LastLoginTime" value="Ultimo accesso	" />
+    <text name="EditUser" value="modifica utente" />
+    <text name="UserInformations" value="Informazioni Utente" />
+    <text name="PasswordRepeat" value="Password (ripeti)" />
+    <text name="SuccessfullyDeleted" value="Cancellato con successo." />
+    <text name="RoleDeleteWarningMessage" value="Il ruolo {0} verrà eliminato e non sarà assegnato da tutti gli utenti assegnati." />
+    <text name="UserDeleteWarningMessage" value="L'utente {0} sarà cancellato." />
+    <text name="Active" value="Attivo" />
+    <text name="EmailConfirm" value="Email confirmata" />
+    <text name="Yes" value="Si" />
+    <text name="No" value="No" />
+    <text name="MySettings" value="My settings" />
+    <text name="Logout" value="Logout" />
+    <text name="Reset" value="Reset" />
+    <text name="ResetPermissionsTooltip" value="Questo pulsante ripristina immediatamente le impostazioni di autorizzazione specifiche dell'utente e salva le modifiche. L'utente avrà solo le autorizzazioni dai ruoli assegnati." />
+    <text name="ResetSuccessfully" value="Reset con successo" />
+    <text name="Tenants" value="Tenants" />
+    <text name="TenantsHeaderInfo" value="Gestisci i tuoi detentori." />
+    <text name="CreateNewTenant" value="Crea un nuovo detentore" />
+    <text name="TenancyCodeName" value="Nome del codice di detentore" />
+    <text name="TenantName" value="Nome detentore" />
+    <text name="TenantDeleteWarningMessage" value="Il locatario {0} verrà eliminato." />
+    <text name="AdminEmailAddress" value="admin email" />
+    <text name="AdminPassword" value="admin password" />
+    <text name="AdminPasswordRepeat" value="admin password (repeat)" />
+    <text name="EditTenant" value="Modifica detentore" />
+    <text name="ChangingPermissions" value="Modifica delle autorizzazioni" />
+    <text name="EditingUser" value="Modifica utente" />
+    <text name="CreatingNewUser" value="Creare un nuovo utente" />
+    <text name="Edit" value="Modifica" />
+    <text name="EditingTenant" value="Modifica detentori" />
+    <text name="CreatingNewTenant" value="Crea nuovo detentore" />
+    <text name="DeletingTenant" value="Cancella detentore" />
+    <text name="EditingRole" value="Modifica ruolo" />
+    <text name="CreatingNewRole" value="Crea nuovo ruolo" />
+    <text name="DeletingRole" value="Cancella ruolo" />
+    <text name="CreationTime" value="Tempo di creazione" />
+    <text name="SearchWithThreeDot" value="Cerca..." />
+    <text name="ResetSpecialPermissions" value="Reimposta i permessi speciali" />
+    <text name="SavingWithThreeDot" value="Salvataggio..." />
+    <text name="Settings" value="impostazioni" />
+    <text name="SaveAll" value="Salva tutto" />
+    <text name="SettingsHeaderInfo" value="Mostra e modifica le impostazioni dell'applicazione." />
+    <text name="EmailSmtp" value="Email (SMTP)" />
+    <text name="DefaultFromAddress" value="Predefinito da (mittente) indirizzo email" />
+    <text name="DefaultFromDisplayName" value="Predefinito da (mittente) nome visualizzato" />
+    <text name="SmtpHost" value="SMTP host" />
+    <text name="SmtpPort" value="SMTP porta" />
+    <text name="UseDefaultCredentials" value="Utilizza le credenziali predefinite" />
+    <text name="DomainName" value="Nome Dominio" />
+    <text name="UseSsl" value="Usa SSL" />
+    <text name="ThisWebSiteRootAddress" value="Indirizzo root del sito Web" />
+    <text name="ThisWebSiteRootAddress_Hint" value="Sarà usato quando si costruiscono collegamenti a questo sito web. È necessario per alcune attività come la creazione di collegamenti per la reimpostazione della password. Ex: http://mydomain.com/" />
+    <text name="General" value="Generale" />
+    <text name="SendPasswordResetLink_Information" value="Un link per reimpostare la password verrà inviato alla tua e-mail per reimpostare la tua password. Se non ricevi un'email entro pochi minuti, riprova." />
+    <text name="Send" value="Invia" />
+    <text name="PasswordReset" value="Password reset" />
+    <text name="InvalidUserNameOrEmailAddress" value="Nome utente o indirizzo email non validi" />
+    <text name="PasswordResetEmail_Subject" value="Resetta Password" />
+    <text name="PasswordResetEmail_Title" value="Resetta Password" />
+    <text name="PasswordResetEmail_SubTitle" value="Fare clic sul collegamento sottostante per reimpostare la password:" />
+    <text name="PasswordResetEmail_ClickTheLinkBelowToResetYourPassword" value="Fare clic sul collegamento sottostante per reimpostare la password:" />
+    <text name="EmailActivation_Subject" value="Attivazione e-mail dell'account" />
+    <text name="EmailActivation_Title" value="Benvento!" />
+    <text name="EmailActivation_SubTitle" value="Clicca sul link sottostante per verificare il tuo indirizzo email:" />
+    <text name="EmailActivation_ClickTheLinkBelowToVerifyYourEmail" value="Fai clic sul link sottostante per verificare il tuo indirizzo email:" />
+    <text name="InvalidEmailAddress" value="Indirizzo email non valido" />
+    <text name="InvalidPasswordResetCode" value="Codice di reimpostazione della password non valido" />
+    <text name="InvalidPasswordResetCode_Detail" value="Assicurati di aver inserito questa pagina facendo clic sul link inviato alla tua email. Se questo non risolve il problema, puoi riprovare a richiedere un nuovo link per la reimpostazione della password. " />
+    <text name="PleaseEnterYourNewPassword" value="Per favore inserisci la tua nuova password." />
+    <text name="UserEmailIsNotConfirmedAndCanNotLogin" value="Il tuo indirizzo email non è stato confermato. Per favore controlla la tua mail e clicca sul link di conferma per attivare il tuo account. Se non ricevi la mail di attivazione, clicca su 'Conferma email' per richiedere un nuovo invio mail." />
+    <text name="LoginFailed" value="Accesso fallito!" />
+    <text name="InvalidEmailConfirmationCode" value="Codice di conferma email non valido" />
+    <text name="InvalidEmailConfirmationCode_Detail" value="Assicurati di aver inserito questa pagina facendo clic sul link inviato alla tua email. Se questo non risolve il problema, puoi riprovare a richiedere un nuovo codice di conferma." />
+    <text name="YourEmailIsConfirmedMessage" value="Il tuo indirizzo email è stato confermato con successo." />
+    <text name="YourPhoneNumberConfirmationCodeIs" value="Il codice di conferma del numero di telefono è {0}." />
+    <text name="ShouldChangePasswordOnNextLogin" value="Dovrebbe cambiare la password al prossimo accesso."/>
+    <text name="SetRandomPassword" value="Imposta password casuale" />
+    <text name="EmailActivation" value="attivazione Email" />
+    <text name="SendEmailActivationLink_Information" value="Un link verrà inviato alla tua email per attivare il tuo indirizzo email. Se non ricevi un'email entro pochi minuti, riprovare. " />
+    <text name="SendActivationEmail" value="Invia email di attivazione." />
+    <text name="CurrentPassword" value="Password attuale" />
+    <text name="NewPassword" value="Nuova password" />
+    <text name="NewPasswordRepeat" value="Nuova password (ripeti)" />
+    <text name="YourPasswordHasChangedSuccessfully" value="La tua password è stata cambiata con successo." />
+    <text name="SelfUserRegistrationIsDisabledMessage" value="Non puoi registrarti al sistema!" />
+    <text name="SelfUserRegistrationIsDisabledMessage_Detail" value="La registrazione dell'utente autonomo è disabilitata. Si prega di contattare l'amministratore di sistema per registrarsi." />
+    <text name="SuccessfullyRegistered" value="Registrato con successo. Riceverai un'email di attivazione, fai clic sul link per attivare l'account!" />
+    <text name="ConfirmationMailSentPleaseClickLinkInTheEmail" value="Una mail di conferma inviata a {0}. Fai clic sul link nell'email per confermare il tuo indirizzo email." />
+    <text name="YourAccountIsWaitingToBeActivatedByAdmin" value="Il tuo account è in attesa di essere attivato dall'amministratore di sistema." />
+    <text name="NameSurname" value="Nome cognome" />
+    <text name="UserManagement" value="Gestione utenti" />
+    <text name="AllowUsersToRegisterThemselves" value="Permetti agli utenti di registrarsi al sistema." />
+    <text name="AllowUsersToRegisterThemselves_Hint" value="Se disabiliti questo, gli utenti verranno aggiunti solo dall'amministratore utilizzando la pagina di gestione degli utenti." />
+    <text name="NewRegisteredUsersIsActiveByDefault" value="I nuovi utenti registrati sono attivi per impostazione predefinita." />
+    <text name="NewRegisteredUsersIsActiveByDefault_Hint" value="Se disabiliti questo, i nuovi utenti non saranno attivi (e non potranno accedere) fino a quando l'amministratore non avrà attivato manualmente l'account." />
+    <text name="Default" value="Predefinito" />
+    <text name="DefaultRole_Description" value="Assegna ai nuovi utenti come predefinito." />
+    <text name="StaticRole_Tooltip" value="I ruoli statici non possono essere cancellati." />
+    <text name="EmailConfirmationRequiredForLogin" value="E 'richiesta la conferma via email per il login." />
+    <text name="{0}UserCannotBeDeleted" value="L'utente {0} non può essere eliminato." />
+    <text name="TenantNameCanNotBeEmpty" value="Il nome del titolare non può essere vuoto" />
+    <text name="ExportToExcel" value="Esportare in Excel" />
+    <text name="ChangeProfilePicture" value="Cambia immagine del profilo" />
+    <text name="TenantName_Regex_Description" value="Il nome del titolare deve essere di almeno 2 caratteri, inizia con una lettera e continua con lettera, numero, trattino o trattino basso" />
+    <text name="ProfilePicture_Change_Info" value= "È possibile selezionare un file JPG / JPEG / PNG con una dimensione massima di 1 MB." />
+    <text name="ProfilePicture_Change_Error" value="La tua immagine del profilo non può essere cambiata." />
+    <text name="ProfilePicture_Warn_SizeLimit" value="Le dimensioni dell'immagine devono essere inferiori a 1 MB. Seleziona un altro file." />
+    <text name="ProfilePicture_Warn_FileType" value="Puoi selezionare solo file JPG / JPEG. Seleziona un altro file." />
+    <text name="Dashboard" value="Dashboard" />
+    <text name="DashboardHeaderInfo" value="statistiche e rapporti" />
+    <text name="GoToApplication" value="Vai all'applicazione" />
+    <text name="TenantInformations" value="Informazioni sugli detentori" />
+    <text name="PersonalInformations" value="Informazione personale" />
+    <text name="AccountSettings" value="Impostazioni dell 'account" />
+    <text name="Captha_Hint" value="Per favore dimostra che non sei un robot" />
+    <text name="Back" value="indietro" />
+    <text name="Submit" value="invia" />
+    <text name="CaptchaCanNotBeEmpty" value="La risposta Captcha non può essere vuota." />
+    <text name="IncorrectCaptchaAnswer" value="Il codice di sicurezza non è valido." />
+    <text name="FormIsNotValidMessage" value="Il modulo non è valido. Controlla e correggi gli errori." />
+    <text name="CanNotChangeAdminUserName" value="Impossibile cambiare il nome utente dell'amministratore." />
+    <text name="Error" value="Errore!" />
+    <text name="OopsYouAreLost" value="Oops! Ti sei perso." />
+    <text name="WeCanNotFindThePage" value="Non riusciamo a trovare la pagina che stai cercando." />
+    <text name="DashboardDemo_Note_Title" value="Benvenuto in ASP.NET Zero startup project!" />
+    <text name="DashboardDemo_Note_Info">
+      In questa demo, puoi usare il menu di sinistra per testare l'applicazione.
+             Questa pagina dashboard è solo per dimostrazione, ma tutte le altre pagine e funzionalità sono completamente implementate, funzionanti e pronte per la produzione.
+             È possibile aggiungere / applicare i requisiti aziendali su questo progetto di avvio (o rimuovere qualsiasi funzionalità non necessaria).
+             Pertanto, è possibile ottenere un guadagno di tempo per avviare immediatamente i propri requisiti di progetto.
+    </text>
+    <text name="WelcomePage_Title" value="Benvenuto!" />
+    <text name="WelcomePage_Info" value="Benvenuto nell'applicazione. È possibile utilizzare il menu per iniziare a utilizzare l'applicazione. Se non vedi alcuna voce di menu, probabilmente non hai il permesso di vedere alcuna pagina. Considera di chiedere all'amministratore di sistema i permessi. " />
+    <text name="RequestedFileDoesNotExists" value="Il file richiesto non esiste!" />
+    <text name="MailSent" value="Mail inviata" />
+    <text name="PasswordResetMailSentMessage" value="Un link per la reimpostazione della password inviato al tuo indirizzo e-mail. Controlla le tue e-mail." />
+    <text name="ActivationMailSentMessage" value="Un link di attivazione e-mail inviato al tuo indirizzo e-mail. Controlla le tue e-mail." />
+    <text name="UseCaptchaOnRegistration" value="Usa la domanda di immagine di sicurezza (captcha) alla registrazione." />
+    <text name="FormBasedRegistration" value="Registrazione col modulo" />
+    <text name="LdapSettings" value="LDAP Impostazioni" />
+    <text name="EnableLdapAuthentication" value="Abilita autenticazione LDAP" />
+    <text name="OtherSettings" value="Altre impostazioni" />
+    <text name="AuditLogs" value="Registri di controllo" />
+    <text name="Success" value="Successo" />
+    <text name="Time" value="Tempo" />
+    <text name="Service" value="Servizio" />
+    <text name="Action" value="Action" />
+    <text name="Duration" value="Durata" />
+    <text name="IpAddress" value="IP indirizzo" />
+    <text name="Client" value="Client" />
+    <text name="Browser" value="Browser" />
+    <text name="Xms" value="{0} ms" />
+    <text name="Close" value="Chiudi" />
+    <text name="Refresh" value="aggiorna" />
+    <text name="ErrorState" value="Errore" />
+    <text name="All" value="tutto" />
+    <text name="HasError" value="ha un error" />
+    <text name="ShowAdvancedFilters" value="Mostra filtri avanzati" />
+    <text name="HideAdvancedFilters" value="Nascondi filtri avanzati" />
+    <text name="AuditLogDetail" value="Dettaglio del registro di controllo" />
+    <text name="Parameters" value="Parametri" />
+    <text name="DateRange" value="Intervallo di date" />
+    <text name="ActionInformations" value="Informazioni di azione" />
+    <text name="Today" value="Oggi" />
+    <text name="Yesterday" value="Ieri" />
+    <text name="Last7Days" value="Ultimi 7 giorni" />
+    <text name="Last30Days" value="Ultimi 30 giorni" />
+    <text name="ThisMonth" value="Questo mese" />
+    <text name="LastMonth" value="Ultimo mese" />
+    <text name="TenantSelection" value="Seleziona detentore" />
+    <text name="TenantSelection_Detail" value="Per favore seleziona uno dei seguenti detentori." />
+    <text name="LoginWith" value="Entra con:" />
+    <text name="PasswordChangeDontRememberMessage" value="Se non ricordi la tua password, {0}." />
+    <text name="ClickHere" value="clicca qui" />
+    <text name="Apply" value="Applicare" />
+    <text name="CustomRange" value="Gamma personalizzata" />
+    <text name="DashboardNoteForMpaVersion">
+      <![CDATA[
+      Vedi Demo per la versione dell'applicazione multipagina con <strong>ASP.NET MVC</strong> e <strong>jQuery</strong>.
+      ]]>
+    </text>
+    <text name="DashboardNoteForSpaVersion">
+      <![CDATA[
+     Avviso: c'è anche una <strong>Single-Page Application</strong> versione built usando ASP.NET MVC e <strong>AngularJs</strong>.
+      ]]>
+    </text>
+    <text name="SeeDemo" value="Guarda demo" />
+    <text name="Edition" value="Edizione" />
+    <text name="Editions" value="Edizioni" />
+    <text name="EditionsHeaderInfo" value="Gestisci le edizioni e le funzionalità dell'applicazione"/>
+    <text name="CreateNewEdition" value="Crea nuova edizione"/>
+    <text name="EditEdition" value="Modifica edizione" />
+    <text name="EditionProperties" value="Proprietà dell'edizione" />
+    <text name="EditionName" value="Nome dell'edizione" />
+    <text name="Features" value="Caratteristiche" />
+    <text name="EditionDeleteWarningMessage" value="{0} verrà eliminato e non assegnato da tutti gli detentori assegnati. " />
+    <text name="CreatingNewEdition" value="Creazione di una nuova edizione" />
+    <text name="EditingEdition" value="Modifica edizione" />
+    <text name="DeletingEdition" value="Eliminazione dell'edizione" />
+    <text name="ChangingFeatures" value="Modifica delle caratteristiche" />
+    <text name="ResetSpecialFeatures" value="Ripristina funzionalità speciali"/>
+    <text name="ResetFeaturesTooltip" value="Questo pulsante ripristina immediatamente le impostazioni specifiche dei titolari e salva le modifiche. Il detentore avrà solo le funzioni dell'edizione assegnata." />
+    <text name="NotAssigned" value="Non assegnato" />
+    <text name="InvalidFeaturesWarning" value="Uno o più valori funzione non sono validi!" />
+    <text name="Languages" value="Le lingue" />
+    <text name="LanguagesHeaderInfo" value="Gestisci le lingue dell'interfaccia utente" />
+    <text name="CreateNewLanguage" value="Crea nuova lingua" />
+    <text name="Code" value="Codice" />
+    <text name="CreatingNewLanguage" value="Creazione di una nuova lingua" />
+    <text name="EditingLanguage" value="Modifica lingua" />
+    <text name="DeletingLanguages" value="Eliminare la lingua" />
+    <text name="ChangingTexts" value="Modifica dei testi" />
+    <text name="SuccessfullySaved" value="Salvato con successo." />
+    <text name="Language" value="Lingua" />
+    <text name="Flag" value="Bandiera" />
+    <text name="SetAsDefaultLanguage" value="Imposta come lingua predefinita" />
+    <text name="InvlalidLanguageCode" value="Codice lingua non valido." />
+    <text name="EditLanguage" value="Modifica lingua"/>
+    <text name="ChangeTexts" value="Cambia testi" />
+    <text name="TargetValue" value="Valore target" />
+    <text name="BaseValue" value="Valore base" />
+    <text name="Key" value="chiave" />
+    <text name="SaveAndClose" value="Salva e Chiudi" />
+    <text name="SaveAndNext" value="Salva e Avanti" />
+    <text name="EditText" value="Modifica il testo"/>
+    <text name="LanguageTexts" value="Testi di lingua" />
+    <text name="LanguageTextsHeaderInfo" value="Modifica i testi per le lingue." />
+    <text name="EmptyOnes" value="Vuoti" />
+    <text name="Source" value="Fonte" />
+    <text name="BaseLanguage" value="Lingua di base" />
+    <text name="TargetLanguage" value="Lingua di destinazione" />
+    <text name="Previous" value="Precedente"/>
+    <text name="LanguageDeleteWarningMessage" value="Eliminare la lingua {0}?" />
+    <text name="CanNotEditOrDeleteDefaultLanguages" value="Impossibile modificare o eliminare le lingue predefinite. Puoi modificare o eliminare solo le lingue che hai aggiunto, ma puoi modificare i testi di tutte le lingue." />
+    <text name="LookingForMpaVersion" value="Cerchi la versione dell'applicazione multi-pagina?" />
+    <text name="LookingForSpaVersion" value="Alla ricerca di una versione dell'applicazione singola pagina?" />
+    <text name="ThisLanguageAlreadyExists" value="Questo linguaggio esiste già!"/>
+    <text name="OrganizationUnitsHeaderInfo" value="Usa le unità organizzative per organizzare utenti ed entità" />
+    <text name="OrganizationTree" value="Albero dell'organizzazione" />
+    <text name="Members" value="Membri" />
+    <text name="SelectAnOrganizationUnitToSeeMembers" value="Seleziona un'unità organizzativa per vedere i membri." />
+    <text name="OrganizationUnitDeleteWarningMessage" value="Eliminare l'unità organizzativa {0}?" />
+    <text name="AddSubUnit" value="Aggiungi unità secondaria" />
+    <text name="AddMember" value="Aggiungi membro" />
+    <text name="SuccessfullyAdded" value="Aggiunti con successo" />
+    <text name="RemoveUserFromOuWarningMessage" value="Sei sicuro di rimuovere l'utente {0} dall'unità organizzativa {1}?" />
+    <text name="SuccessfullyRemoved" value="Rimosso con successo" />
+    <text name="SelectAnItem" value="Seleziona un oggetto" />
+    <text name="NewOrganizationUnit" value="Nuova unità organizzativa" />
+    <text name="SelectAUser" value="Seleziona un utente" />
+    <text name="Select" value="Selezionare" />
+    <text name="UserIsAlreadyInTheOrganizationUnit" value="Questo utente è già nell'unità organizzativa!" />
+    <text name="AddRootUnit" value="Aggiungi unità root" />
+    <text name="AddUser" value="Aggiungi utente" />
+    <text name="NoOrganizationUnitDefinedYet" value="Nessuna unità organizzativa ancora definita" />
+    <text name="OrganizationUnitMoveConfirmMessage" value="Conferma per spostare {0} in meno di {1}." />
+    <text name="Root" value="Root" />
+    <text name="SuccessfullyMoved" value="Trasferito con successo." />
+    <text name="AddedTime" value="Tempo di aggiunta" />
+    <text name="ManagingMembers" value="Gestione dei membri" />
+    <text name="ManagingOrganizationTree" value="Gestire l'albero dell'organizzazione" />
+    <text name="LoginForUsers" value="Accedi per gli utenti" />
+    <text name="LoginAsThisUser" value="Accedi come questo utente" />
+    <text name="BackToMyAccount" value="Torna al mio account" />
+    <text name="LoginForTenants" value="Login per detentori" />
+    <text name="LoginAsThisTenant" value="Accedi come questo detentore" />
+    <text name="AuditLogImpersonatedOperationInfo" value="Nota: questa operazione viene eseguita da un altro utente per conto di questo utente." />
+    <text name="CustomData" value="Dati personalizzati" />
+    <text name="None" value="Nessuna" />
+    <text name="YouCanBackToYourAccount" value="Puoi tornare al tuo account qui." />
+    <text name="CascadeImpersonationErrorMessage" value="Impossibile eseguire la rappresentazione a cascata: si tratta già di un accesso impersonato!" />
+    <text name="FromTenantToHostImpersonationErrorMessage" value="Impossibile impersonare un utente host da un utente tenant!" />
+    <text name="DifferentTenantImpersonationErrorMessage" value="Non può impersonare un utente di un detentore diverso!" />
+    <text name="ImpersonationTokenErrorMessage" value="Il token di identità non è valido o è scaduto!" />
+    <text name="NotImpersonatedLoginErrorMessage" value="Questo non è un login impersonato!" />
+    <text name="YouCannotLinkToSameAccount">Non puoi collegare allo stesso account!</text>
+    <text name="ChangePasswordBeforeLinkToAnAccount">È necessario modificare la password prima di collegare questo account!</text>
+    <text name="LinkedAccounts">Account collegati</text>
+    <text name="ManageAccounts">Gestisci account</text>
+    <text name="LinkNewAccount">Collega nuovo account</text>
+    <text name="SuccessfullyUnlinked">Scollegato correttamente</text>
+    <text name="LinkedUserDeleteWarningMessage">Il collegamento all'utente {0} verrà eliminato.</text>
+    <text name="SwitchToLinkedAccountTokenErrorMessage" value="Il token di identità non è valido o è scaduto!" />
+    <text name="WelcomeToTheApplicationNotificationMessage" value="Benvenuti in Candy System! Il sistema di notifica viene utilizzato per informare gli utenti in merito agli eventi previsti. È possibile selezionare il tipo di notifiche che si desidera ricevere dalle impostazioni di notifica." />
+    <text name="NewUserRegisteredNotificationDefinition" value="Su un nuovo utente registrato all'applicazione." />
+    <text name="NewUserRegisteredNotificationMessage" value="Un nuovo utente registrato all'applicazione Nome utente: {userName}, indirizzo email: {emailAddress}." />
+    <text name="SeeAllNotifications" value="Vedi tutte le notifiche" />
+    <text name="SetAsRead" value="imposta come letto" />
+    <text name="SetAllAsRead" value="Imposta tutto come letto" />
+    <text name="NotificationSettings" value="Impostazioni di notifica" />
+    <text name="ReceiveNotifications" value="Ricevi notifiche" />
+    <text name="ReceiveNotifications_Definition" value="Questa opzione può essere utilizzata per abilitare / disabilitare completamente le notifiche di ricezione." />
+    <text name="NotificationTypes" value="Tipi di notifica" />
+    <text name="ReceiveNotifications_DisableInfo" value="Hai completamente disabilitato la ricezione delle notifiche. Puoi abilitarlo e selezionare i tipi di notifica che desideri ricevere." />
+    <text name="Notifications" value="Notifiche" />
+    <text name="ThereIsNoNotification" value="Non ci sono notifiche." />
+    <text name="Unread" value="Non letto" />
+    <text name="YouCanNotDeleteOwnAccount" value="Non puoi cancellare il tuo account utente!" />
+    <text name="On" value="On" />
+    <text name="Off" value="Off" />
+    <text name="Maintenance">Manutenzione</text>
+    <text name="Caches">Caches</text>
+    <text name="CacheSuccessfullyCleared">Cache cancellate completamente.</text>
+    <text name="AllCachesSuccessfullyCleared">Tutte le caches cancellate completamente.</text>
+    <text name="ClearAll">Cancella tutto</text>
+    <text name="Clear">Cancella</text>
+    <text name="CachesHeaderInfo">È possibile cancellare le cache nell'applicazione in questa pagina.</text>
+    <text name="TestEmailSettingsHeader">Prova le impostazioni della posta elettronica</text>
+    <text name="SendTestEmail">Invia e-mail di prova</text>
+    <text name="TestEmail_Subject">AELF e-mail di prova</text>
+    <text name="TestEmail_Body">Questa è una email di prova.</text>
+    <text name="TestEmailSentSuccessfully">Testare l'e-mail inviata con successo.</text>
+    <text name="WebSiteLogs">Registri del sito web</text>
+    <text name="WebSiteLogsHeaderInfo">È possibile visualizzare i registri più recenti in questa pagina o scaricare tutti i registri in un unico file zip.</text>
+    <text name="DownloadAll">Download all</text>
+    <text name="TenantManagement">Gestione degli detentori</text>
+    <text name="AllowTenantsToRegisterThemselves" value="Permetti agli detentori di registrarsi al sistema." />
+    <text name="AllowTenantsToRegisterThemselves_Hint" value="Se disabiliti questo, gli detentori verranno aggiunti solo dall'amministratore utilizzando la pagina di gestione dei titolari." />
+    <text name="NewRegisteredTenantsIsActiveByDefault" value="I nuovi detentori registrati sono attivi per impostazione predefinita." />
+    <text name="NewRegisteredTenantsIsActiveByDefault_Hint" value="Se disabiliti questo, i nuovi detentori non saranno attivi (e non potranno accedere) fino a quando l'amministratore non avrà attivato manualmente l'account." />
+    <text name="TenantSignUp">detentore SignUp</text>
+    <text name="NewTenantRegisteredNotificationDefinition" value="In un nuovo titolare registrato all'applicazione." />
+    <text name="NewTenantRegisteredNotificationMessage" value="Un nuovo titolare registrato all'applicazione. Nome di tenancy: {tenancyName}." />
+    <text name="LoginAttempts">Tentativi di accesso</text>
+    <text name="Failed">Fallito</text>
+    <text name="NewTenant">Nuovo detentore</text>
+    <text name="ResizedProfilePicture_Warn_SizeLimit" value="La dimensione dell'immagine ridimensionata deve essere inferiore a 100 KB. Ridimensiona e riprova." />
+    <text name="RegisterFormUserNameInvalidMessage">Si prega di non inserire un indirizzo email per il nome utente.</text>
+    <text name="UseHostDatabase" value="Usa il database host" />
+    <text name="DatabaseConnectionString" value="Stringa di connessione al database" />
+    <text name="TenantDatabaseConnectionStringChangeWarningMessage" value="Avviso: prima di modificare la stringa di connessione al database per un titolare, è necessario spostare il database del titolare nella nuova posizione. La modifica della stringa di connessione non sposta il database del titolare." />
+    <text name="Timezone">Fuso orario</text>
+    <text name="HasOwnDatabase">Ha un proprio database</text>
+    <text name="TimeZoneSettingChangedRefreshPageNotification">L'impostazione del fuso orario è cambiata. Fare clic sul pulsante OK per aggiornare la pagina e le modifiche diventano effettive.</text>
+    <text name="Ok">Ok</text>
+    <text name="Permission">Permessi</text>
+    <text name="Role">Ruolo</text>
+    <text name="Security">Sicurezza</text>
+    <text name="PasswordComplexity">Complessità della password</text>
+    <text name="UseDefaultSettings">Usa le impostazioni predefinite</text>
+    <text name="PasswordComplexityNotSatisfied">La complessità della password non è soddisfatta.</text>
+    <text name="YouAlreadySentAFriendshipRequestToThisUser">Hai già aggiunto questo utente.</text>
+    <text name="YouCannotBeFriendWithYourself">Non puoi essere amico di te stesso.</text>
+    <text name="NewChatMessageEmail_Title">Dettagli del messaggio</text>
+    <text name="NewChatMessageEmail_SubTitle"></text>
+    <text name="NewChatMessageEmail_Subject">Hai un nuovo messaggio di chat</text>
+    <text name="Sender">Mittente</text>
+    <text name="Message">Messaggio</text>
+    <text name="UserBlocked">Utente bloccato correttamente.</text>
+    <text name="UserUnblocked">Blocco rimosso dall'utente con successo.</text>
+    <text name="BlockUser">Block user</text>
+    <text name="UnblockUser">Unblock</text>
+    <text name="FriendshipRequestAccepted">Friendship request accepted</text>
+    <text name="UserSendYouAFriendshipRequest">{0} added you as a friend.</text>
+    <text name="Friends">Friends</text>
+    <text name="Others">Others</text>
+    <text name="BlockedUsers">Utenti bloccati</text>
+    <text name="YouDontHaveAnyFriend">Non hai amici. Scrivi un nome utente sopra la casella di immissione e fai clic sul pulsante "Aggiungi amico".</text>
+    <text name="YouDontHaveAnyBlockedFriend"> Non hai utenti bloccati. Per bloccare un amico, seleziona un amico e seleziona il blocco dal menu a discesa delle azioni.</text>
+    <text name="ChatUserSearch_Hint">
+      <![CDATA[
+     Scrivi solo il nome utente per gli stessi utenti detentori, <br>
+      <strong>[tenancyName]\[userName]</strong> per gli altri utenti del locatario <br><br>
+      for example: <br>
+      .\admin -> for host admin <br>
+      Test\admin -> for test tenant's admin <br>
+      admin -> for your tenant's admin
+      ]]>
+    </text>
+    <text name="AddFriend">Aggiungi amico</text>
+    <text name="TypeAMessageHere">Digita un messaggio qui...</text>
+    <text name="Chat">Chat</text>
+    <text name="ChatFeature">Chat</text>
+    <text name="ChatFeatureIsNotEnabledForSender">La chat non è abilitata per te.</text>
+    <text name="ChatFeatureIsNotEnabledForReceiver">La chat non è abilitata per il titolare.</text>
+    <text name="UserIsBlocked">L'utente è bloccato</text>
+    <text name="ChatIsNotConnectedWarning">La chat non è connessa.</text>
+    <text name="Demo_SampleChatMessage">Ciao, questo è un messaggio di prova. Effettua il login con il mio account in un altro browser e controlla come funziona la chat.</text>
+    <text name="TenantToTenantChatFeatureIsNotEnabledForSender">La chat con altri detentori non è abilitata per te.</text>
+    <text name="TenantToTenantChatFeatureIsNotEnabledForReceiver">La chat con altri detentori non è abilitata per il detentore.</text>
+    <text name="TenantToHostChatFeatureIsNotEnabledForSender">La chat con l'host non è abilitata per te.</text>
+    <text name="TenantToHostChatFeatureIsNotEnabledForReceiver">La chat con l'host non è abilitata per il detentore</text>
+    <text name="TenantToTenantChatFeature">Chatta con altri detentori</text>
+    <text name="TenantToHostChatFeature">Chat con l'host</text>
+    <text name="FilterByPermission">Filtra per autorizzazione</text>
+    <text name="FilterByRole">Filtra per ruolo</text>
+    <text name="FilterOrAddUser">Filtro / Aggiungi utente</text>
+    <text name="HangfireDashboard" value="Hangfire dashboard" />
+    <text name="CouldNotCompleteLoginOperation">Impossibile completare l'operazione di accesso.</text>
+    <text name="UnAuthorizedOperation">Operazione non autorizzata</text>
+    <text name="YouAreNotAuthorizedToPerformThisOperation">Non sei autorizzato a eseguire questa operazione.</text>
+    <text name="TargetUserNotFoundProbablyDeleted">L'utente di destinazione non è stato trovato. Probabilmente è stato cancellato.</text>
+    <text name="UserLockedOutMessage">L'account utente è stato bloccato. Per favore riprova più tardi.</text>
+    <text name="SendSecurityCode">Invia il codice di sicurezza.</text>
+    <text name="SendSecurityCode_Information">Dovresti verificare se stessi per accedere. Si prega di selezionare un tipo di verifica. Un codice verrà inviato in base al tipo di verifica selezionato.</text>
+    <text name="SendSecurityCodeErrorMessage">Il codice di sicurezza non può essere inviato!</text>
+    <text name="VerifySecurityCodeNotLoggedInErrorMessage">Devi prima effettuare il login, per verificare te stesso! Probabilmente, il tuo login è scaduto. Si prega di andare alla pagina di accesso e riprovare.</text>
+    <text name="VerificationCode">Codice di verifica</text>
+    <text name="VerifySecurityCode">Verifica il codice di sicurezza</text>
+    <text name="VerifySecurityCode_Information">Inserisci il codice di verifica che ti è stato inviato.</text>
+    <text name="RememberThisBrowser">Ricorda questo browser</text>
+    <text name="InvalidSecurityCode">Codice di sicurezza non valido!</text>
+    <text name="PhoneNumber">Numero di telefono</text>
+    <text name="Unlock">Sblocca</text>
+    <text name="UnlockedTheUser">Sbloccato l'utente {0}</text>
+    <text name="UserLockOut">User Lock Out</text>
+    <text name="EnableUserAccountLockingOnFailedLoginAttemts">Abilita il blocco dell'account utente su tentativi di accesso non riusciti</text>
+    <text name="MaxFailedAccessAttemptsBeforeLockout">Numero massimo di tentativi falliti di accesso prima di bloccare l'account</text>
+    <text name="DefaultAccountLockoutDurationAsSeconds">Durata blocco account (come secondi)</text>
+    <text name="TwoFactorLogin">Accesso a due fattori</text>
+    <text name="EnableTwoFactorLogin">Abilita il login utente a due fattori.</text>
+    <text name="IsEmailVerificationEnabled">Abilita la verifica dell'e-mail.</text>
+    <text name="IsSmsVerificationEnabled">Abilita la verifica SMS.</text>
+    <text name="AllowToRememberBrowserForTwoFactorLogin">Consenti ricordare il browser. Se lo si consente, gli utenti possono selezionare di ricordare il browser per saltare il login di due fattori per la seconda volta per lo stesso browser.</text>
+    <text name="CurrentTenant">detentore corrente</text>
+    <text name="NotSelected">Non selezionato</text>
+    <text name="Change">Cambia</text>
+    <text name="ChangeTenant">Cambia detentore</text>
+    <text name="UnknownTenantId{0}" value="detentore id sconosciuto: {0}" />
+    <text name="TenantIdIsNotActive{0}" value="detentore id inattivo: {0}" />
+    <text name="TimeoutPleaseTryAgain">Tempo scaduto! Per favore riprova.</text>
+    <text name="RemainingTime">Tempo rimanente</text>
+    <text name="SecondShort{0}">{0} sec</text>
+    <text name="ResetCode">Reimposta codice</text>
+    <text name="IsTwoFactorEnabled">Autenticazione a due fattori abilitata</text>
+    <text name="IsLockoutEnabled">Blocco abilitato</text>
+    <text name="IsLockoutEnabled_Hint">L'utente è bloccato per un po 'dopo un certo numero di tentativi di accesso non riusciti.</text>
+    <text name="TenantRegistrationLoginInfo">Clicca qui per accedere</text>
+    <text name="CouldNotValidateExternalUser">Impossibile convalidare l'accesso utente esterno</text>
+    <text name="LeaveEmptyToSwitchToHost">Lascia vuoto per passare all'host</text>
+    <text name="PleaseWaitToConfirmYourEmailMessage">Per favore attendi confermando il tuo indirizzo email ...</text>
+    <text name="ChatIsConnecting">La chat è in connessione...</text>
+    <text name="Note_RefreshPageForPermissionChanges">Se si stanno modificando le proprie autorizzazioni, potrebbe essere necessario aggiornare la pagina (F5) per rendere effettive le modifiche ai permessi sul proprio schermo!</text>
+    <text name="ApplicationLogo">Logo dell'applicazione</text>
+    <text name="CustomCSS">Custom CSS</text>
+    <text name="Upload">Upload</text>
+    <text name="Download">Download</text>
+    <text name="UploadLogo_Info">Seleziona un file JPG / JPEG / PNG / GIF con una dimensione massima di 30KB e una risoluzione di 168x33 pixel.</text>
+    <text name="UploadCSS_Info">Seleziona un file .css con una dimensione massima di 1 MB.</text>
+    <text name="Browse">Esplora</text>
+    <text name="Appearance">Apparenza</text>
+    <text name="ClearedSuccessfully">Cancellato con successo</text>
+    <text name="File_Empty_Error">Si prega di selezionare un file!</text>
+    <text name="File_SizeLimit_Error">La dimensione del file supera i limiti consentiti!</text>
+    <text name="File_Invalid_Type_Error">Tipo di file non valido!</text>
+    <text name="MaximumUserCount">Numero massimo di utenti</text>
+    <text name="MaximumUserCount_Description">0 = illimitato</text>
+    <text name="MaximumUserCount_Error_Message">Raggiunto il numero massimo consentito dall'utente!</text>
+    <text name="MaximumUserCount_Error_Detail">Questo tenant può avere un massimo di {0} utenti.</text>
+    <text name="UnlockedTenandAdmin">Utente amministratore sbloccato per {0}</text>
+    <text name="Email">Email</text>
+    <text name="EmailSecurityCodeSubject">Codice di sicurezza</text>
+    <text name="EmailSecurityCodeBody">Il tuo codice di sicurezza è: {0}</text>
+    <text name="Sms">Sms</text>
+    <text name="SmsSecurityCodeMessage">Il tuo codice di sicurezza è: {0}</text>
+    <text name="PasswordComplexity_RequireDigit_Hint">Le password devono contenere almeno una cifra ("0" - "9").</text>
+    <text name="PasswordComplexity_RequireLowercase_Hint">Le password devono avere almeno una lettera minuscola ('a' - 'z').</text>
+    <text name="PasswordComplexity_RequireNonAlphanumeric_Hint">Le password devono avere almeno un carattere non alfanumerico.</text>
+    <text name="PasswordComplexity_RequireUppercase_Hint">Le password devono avere almeno una lettera maiuscola ('A' - 'Z').</text>
+    <text name="PasswordComplexity_RequiredLength_Hint">Le password devono contenere almeno {0} caratteri.</text>
+    <text name="PasswordComplexity_RequireDigit">Richiede cifre</text>
+    <text name="PasswordComplexity_RequireLowercase">Richiede lettere minuscole</text>
+    <text name="PasswordComplexity_RequireNonAlphanumeric">Richiede non alfanumerico</text>
+    <text name="PasswordComplexity_RequireUppercase">Richiede maiuscolo</text>
+    <text name="PasswordComplexity_RequiredLength">Lunghezza richiesta</text>
+    <text name="HostDashboardHeaderInfo">Statistiche generali e attività recenti</text>
+    <text name="DashboardSampleStatistics">Statistiche di esempio</text>
+    <text name="DashboardSampleStatisticsHelpText">Progresso</text>
+    <text name="NewTenants">Nuovi detentori</text>
+    <text name="NewSubscriptionAmount">Nuovo importo dell'abbonamento</text>
+    <text name="Income">Entrate</text>
+    <text name="IncomeStatistics">Statistica entrate</text>
+    <text name="ChangeDateRange">Cambia intervallo di date</text>
+    <text name="Daily">Oggi</text>
+    <text name="Weekly">Questa Settimana</text>
+    <text name="Monthly">Questo mese</text>
+    <text name="DateFormatShort">gg.mm.aaaa</text>
+    <text name="EditionStatistics">Statistiche dell'edizione</text>
+    <text name="SubscriptionExpiringTenants">Abbonamento in scadenza con detentori</text>
+    <text name="RemainingDay">Giorno rimanente</text>
+    <text name="SeeAllRecords">Vedi tutti i record</text>
+    <text name="RecentTenants">detentori recenti</text>
+    <text name="RecentTenantsHelpText">Ultimi {1} clienti registrati in {0} giorni ...</text>
+    <text name="ExpiringTenantsHelpText">I primi {1} client scadono tra {0} giorni ...</text>
+    <text name="NoData">Nessun dato</text>
+    <text name="SubscriptionEndDate">Data di fine dell'abbonamento</text>
+    <text name="TenantNameOrTenancyCode">Nome detentore / codice di locazione</text>
+    <text name="IncomeWithAmount">Entrate: {0}</text>
+    <text name="Subscription">Sottoscrizione</text>
+    <text name="Extend">Estendere</text>
+    <text name="Upgrade">aggiornamento</text>
+    <text name="PaymentPeriodType">Tipo di periodo di pagamento</text>
+    <text name="PaymentInfo">Informazioni di pagamento</text>
+    <text name="MonthlyPrice">Prezzo mensile</text>
+    <text name="AnnualPrice">Prezzo annuale</text>
+    <text name="StartUsingFree">Inizia a utilizzare gratuitamente</text>
+    <text name="TryIt">Provalo</text>
+    <!--<text name="Days">Days</text>-->
+    <text name="PerMonth">Per mese</text>
+    <text name="PerYear">Per anno</text>
+    <text name="TestCheckFeature">Funzione di verifica del test</text>
+    <text name="TestCheckFeature2">Funzione di verifica del test 2</text>
+    <text name="Unlimited">Illimitato</text>
+    <text name="LatestPaymentAmount">Ultimo importo del pagamento</text>
+    <text name="Payment">Pagamento</text>
+    <text name="Next">Il prossimo</text>
+    <text name="Start">Inizio</text>
+    <text name="FreeTrial">Prova gratuita</text>
+    <text name="BuyNow">Acquista ora</text>
+    <text name="WhatWillDoneAfterSubscriptionExpiry">Cosa verrà fatto dopo la scadenza dell'abbonamento</text>
+    <text name="DeactiveTenant">Disattiva il detentore</text>
+    <text name="AssignToAnotherEdition">Assegna a un'altra edizione</text>
+    <text name="SubscriptionPrice">Prezzo di abbonamento</text>
+    <text name="Free">Gratuito</text>
+    <text name="Paid">A pagamento</text>
+    <text name="IsTrialActive">La prova è attiva</text>
+    <text name="TrialDayCount">Conteggio del giorno di prova</text>
+    <text name="WaitAfterSubscriptionExpireDate">Attendi dopo la scadenza della sottoscrizione</text>
+    <text name="WaitingDayAfterExpire">Attesa dopo la scadenza</text>
+    <text name="DisplayOrder">Ordine di visualizzazione</text>
+    <text name="Annual">Annuale</text>
+    <text name="SubscriptionStartDate">Data di inizio dell'iscrizione</text>
+    <text name="Pricing">Prezzi</text>
+    <text name="ClientIsRequestingYourPermission">{0} richiede la tua autorizzazione</text>
+    <text name="ApplicationAccess">Application Access</text>
+    <text name="RememberMyDecision">Ricorda la mia decisione</text>
+    <text name="Allow">permettere</text>
+    <text name="DoNotAllow">Non permettere</text>
+    <text name="Your user identifier">Il tuo identificatore utente</text>
+    <text name="Required">necessario</text>
+    <text name="User profile">Profilo utente</text>
+    <text name="Your user profile information (first name, last name, etc.)">Le informazioni del tuo profilo utente (nome, cognome, ecc.)</text>
+    <text name="Your email address">Il tuo indirizzo di posta elettronica</text>
+    <text name="Your phone number">Il tuo numero di telefono</text>
+    <text name="Your postal address">Il tuo indirizzo postale</text>
+    <text name="AllFunctionalityYouHaveInTheApplication">Tutte le funzionalità che hai nell'applicazione</text>
+    <text name="Default (all) API">Default (all) API</text>
+    <text name="Offline Access">Accesso Offline </text>
+    <text name="Access to your applications and resources, even when you are offline">Accesso alle tue applicazioni e risorse, anche quando sei offline</text>
+    <text name="Purchase">Acquista</text>
+    <text name="Trial">Prova</text>
+    <text name="IsDisabled">È disabilitato</text>
+    <text name="ChartDateFormat">%m/%d/%Y</text>
+    <text name="ThereIsNoLoggedInUser">Non c'è un utente registrato.</text>
+    <text name="IsInTrialPeriod">È in fase di prova?</text>
+    <text name="FailedSubscriptionTerminations_Email_Subject">Terminazioni di abbonamento non riuscite</text>
+    <text name="FailedSubscriptionTerminations_Email_Body">La chiusura dell'abbonamento non è riuscita per i seguenti tenant {0} a {1}. Puoi trovare messaggi di errore dettagliati nei log di sistema.</text>
+    <text name="SubscriptionExpire_Email_Subject">Il tuo abbonamento è scaduto</text>
+    <text name="SubscriptionExpire_Email_Body">La tua iscrizione è scaduta a {0}.</text>
+    <text name="UnlimitedTimeSubscription">Abbonamento illimitato</text>
+    <text name="SubscriptionEndDateUtc">Data di fine dell'abbonamento (Utc)</text>
+    <text name="ExpiringEditionMustBeAFreeEdition">L'edizione in scadenza deve essere un'edizione gratuita</text>
+    <text name="ThisEditionIsUsedAsAnExpiringEdition">Questa edizione è utilizzata come edizione in scadenza per un'altra (e) edizione (e). Se vuoi pagare questa edizione, devi prima rimuoverla dalle altre versioni.</text>
+    <text name="UpgradedTo">Upgraded to {0} edition</text>
+    <text name="ExtendedEdition">Extended {0} edition</text>
+    <text name="TrialSubscriptionNotification">Sei in periodo di prova per {0} edizione, {1} da acquistare.</text>
+    <text name="SubscriptionExpireNotification">La tua iscrizione scadrà tra {0} giorno / i.</text>
+    <text name="TrialExpireNotification">Il periodo di prova scadrà tra {0} giorni.</text>
+    <text name="CanNotUpgradeSubscriptionSinceTenantHasNoEditionAssigned">Impossibile aggiornare l'abbonamento poiché il detentore non ha un'edizione assegnata.</text>
+    <text name="PaymentCouldNotCompleted">Il pagamento non può essere completato</text>
+    <text name="TenantEditionIsNotAssigned">L'edizione tenant non è stata assegnata</text>
+    <text name="FreeEditionsCannotHaveTrialVersions">Le edizioni gratuite non possono avere versioni di prova</text>
+    <text name="Total">Totale</text>
+    <text name="Extend_Edition_Description">Extend {0} Edition</text>
+    <text name="Upgrade_Edition_Description">Upgrade to {0} Edition</text>
+    <text name="PaymentMightBeExpiredWarning">L'operazione potrebbe essere scaduta, si prega di contattarci se hai già effettuato il pagamento.</text>
+    <text name="GoToSubscriptionManagement">Vai all'abbonamento</text>
+    <text name="DemoPayPalAccount">Demo conto PayPal</text>
+    <text name="IsEnabled">È abilitato</text>
+    <text name="IsGoogleAuthenticatorEnabled">Abilita Google Authenticator</text>
+    <text name="GoogleAuthenticatorReferrerLink">Non sei sicuro di cosa significa questo schermo? Potrebbe essere necessario controllare questo </text>
+    <text name="ScanQrCodeWithYourMobileApp">Scansiona questo codice QR con la tua app mobile</text>
+    <text name="Profile">Profilo</text>
+    <text name="Enable">Attivato</text>
+    <text name="GoogleAuthenticatorIsNotEnabled">Google Authenticator non è abilitato per il tuo account. Devi prima abilitarlo nelle tue impostazioni.</text>
+    <text name="SubscriptionExpiringSoon_Email_Subject">L'avviso di scadenza dell'abbonamento</text>
+    <text name="SubscriptionExpiringSoon_Email_Body">La tua iscrizione scadrà a {0}.</text>
+    <text name="SubscriptionExpire_Title">Scadenza dell'abbonamento</text>
+    <text name="SubscriptionExpire_SubTitle">Questa e-mail ti viene inviata per notificare la tua scadenza dell'abbonamento</text>
+    <text name="SubscriptionAssignedToAnother_Email_Body">La tua iscrizione è scaduta a {1}. La tua edizione corrente è stata assegnata a {0}.</text>
+    <text name="FailedSubscriptionTerminations_Title">Terminazioni dell'abbonamento non riuscite</text>
+    <text name="FailedSubscriptionTerminations_SubTitle">La chiusura dell'abbonamento è fallita per alcuni detentori</text>
+    <text name="SubscriptionExpiringSoon_Title">Avviso di scadenza dell'abbonamento</text>
+    <text name="SubscriptionExpiringSoon_SubTitle">Questa e-mail ti viene inviata per notificare la tua scadenza dell'abbonamento.</text>
+    <text name="AdminRoleCannotRemoveFromAdminUser">Il ruolo di amministratore non può essere rimosso dall'utente amministratore</text>
+    <text name="YouCannotRemoveUserRolePermissionsFromAdminRole">Non è possibile rimuovere la modifica delle autorizzazioni Utente / Ruolo dal ruolo di amministratore</text>
+    <text name="YouCannotRemoveUserRolePermissionsFromAdminUser">Non è possibile rimuovere la modifica delle autorizzazioni Utente / Ruolo da parte dell'utente amministratore</text>
+    <text name="Notification">Notifiche</text>
+    <text name="TotalRecordsCount">Totale: {0}</text>
+    <text name="SubscriptionInformation">Informazioni sull'iscrizione</text>
+    <text name="PaymentHistory">Storico dei pagamenti</text>
+    <text name="Gateway">Gateway</text>
+    <text name="Amount">Bilancio</text>
+    <text name="Status">Status</text>
+    <text name="Period">Periodo</text>
+    <text name="DayCount">Conteggio dei giorni</text>
+    <text name="LastModificationTime">Ultima modifica</text>
+    <text name="PaymentId">Payment id</text>
+    <text name="SubscriptionPaymentGatewayType_Paypal">Paypal</text>
+    <text name="SubscriptionPaymentStatus_Completed">Completato</text>
+    <text name="SubscriptionPaymentStatus_Processing">Processing</text>
+    <text name="SubscriptionPaymentStatus_Failed">Fallito</text>
+    <text name="PaymentPeriodType_Annual">Annuo</text>
+    <text name="PaymentPeriodType_Monthly">Mensile</text>
+    <text name="ProcessTime">Tempo di processo</text>
+    <text name="SmsVerificationEnabled">Verifica numero di telefono abilitata (via SMS)</text>
+    <text name="SmsVerificationMessage">[Candy System]Codice di Verifica: {0}, scade in 10 min.</text>
+    <text name="Verify">Verifica</text>
+    <text name="YourCode">Il tuo codice</text>
+    <text name="VerifyYourCode">Verifica il tuo codice</text>
+    <text name="YourPhoneNumberIsVerified">Il tuo numero di telefono è verificato</text>
+    <text name="YourPhoneNumberIsNotVerified">Il tuo numero di telefono non è verificato</text>
+    <text name="WrongSmsVerificationCode">Codice di verifica errato !</text>
+    <text name="SelectUsers">Seleziona utenti</text>
+    <text name="OrganizationUnits">Unità organizzative</text>
+    <text name="YouCanManageUsersOrganizationUnitsFromOrganizationUnitsPage">È possibile gestire le unità organizzative dell'Utente dalla pagina Unità organizzative.</text>
+    <text name="DemoUiComponents">Demo UI Components</text>
+    <text name="DateAndTimePickers">Raccoglitori di data e ora</text>
+    <text name="FileUpload">File Upload</text>
+    <text name="PostedValue">Valore pubblicato</text>
+    <text name="SelectDate">Seleziona la data</text>
+    <text name="SelectFile">Seleziona il file</text>
+    <text name="UploadedFile">Uploaded file</text>
+    <text name="PostedData">Dati pubblicati</text>
+    <text name="Remove">Rimuovere</text>
+    <text name="OrganizationUnitNotFoundForThisUser">Non esiste un'unità organizzativa per questo utente.</text>
+    <text name="DemoUiComponents_Info">
+      Questa pagina mostra alcuni utili componenti dell'interfaccia utente che possono essere utilizzati nella tua applicazione.
+             I componenti in questa pagina sono implementati come stack completo (include il lato server).
+    </text>
+    <text name="DemoUiComponents_Info_Metronic_Link_Text">Controlla il tema Metronic per più componenti dell'interfaccia utente</text>
+    <text name="Image">Immagine</text>
+    <text name="File">File</text>
+    <text name="Link">Link</text>
+    <text name="Billing">Fatturazione</text>
+    <text name="LegalName">Nome legale</text>
+    <text name="Address">Indirizzo</text>
+    <text name="Tax/VatNo">p.Iva/cf</text>
+    <text name="Invoice">Fattura</text>
+    <text name="TotalAmount">Importo totale</text>
+    <text name="Print">Stampare</text>
+    <text name="ShowInvoice">Mostra fattura</text>
+    <text name="InvoiceInformation">Informazioni sulla fattura</text>
+    <text name="InvoiceNo">Fattura n</text>
+    <text name="Date">Data</text>
+    <text name="ThisInvoiceIsNotYours">Questa fattura non è tua!</text>
+    <text name="EmailAndPhone">Email And telefono</text>
+    <text name="PhoneActivation" value="Attivazione del telefono" />
+    <text name="SendPhoneNumberConfirmationCode_Information" value="Un codice di conferma del numero di telefono verrà inviato al tuo telefono." />
+    <text name="NotSupportOverseaPhoneNumber" value="Il numero di telefono Oversea non è ancora supportato." />
+    <text name="PhoneNumberConfirmationCode" value="Codice" />
+    <text name="GetCode" value="Riscatta Code" />
+    <text name="ErrorPhoneNumberFormat" value="Errore nel formato del numero di telefono." />
+    <text name="PhoneConfirmCodeMessage" value="Ottieni il codice di conferma del telefono." />
+    <text name="PhoneConfirmCodeSent" value="Il tuo codice di conferma del numero di telefono è stato inviato." />
+    <text name="PhoneConfirmCodeResentDelay" value="Resent in {0} secondi." />
+    <text name="YourPhoneIsConfirmedMessage" value="Il tuo numero di telefono è confermato!" />
+    <text name="ThisPhoneIsConfirmedByYou" value="Hai confermato questo numero di telefono!" />
+    <text name="ThisPhoneIsConfirmed" value="Questo numero di telefono è stato attivato da qualcun altro!" />
+    <text name="InvalidPassword" value="La password che hai inserito non è corretta." />
+    <text name="UserIsNotActive" value="Controlla la tua email e verifica il tuo account!" />
+    <text name="InvalidTenancyName" value="Nome di locazione non valido!" />
+    <text name="UserEmailIsNotConfirmed" value="L'email dell'utente non è confermata!" />
+    <text name="UnknownExternalLogin" value="Unknown externalLogin!" />
+    <text name="LockedOut" value="Chiuso fuori!" />
+    <text name="UserPhoneNumberIsNotConfirmed" value="Il numero di telefono dell'utente non è confermato!" />
+  </texts>
+</localizationDictionary>

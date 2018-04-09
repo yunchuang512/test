@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="ar">
+  <texts>
+    <!--new Feedback-->
+    <text name="FunctionType" value="Function type" />
+    <text name="ProblemType" value="Problem type" />
+    <text name="ProblemDescription" value="Problem description" />
+    <!--new Feedback end-->
+
+    <!--Reward record start-->
+    <text name="RewardRecords" value="Reward Records"/>
+    <!--Reward record end-->
+    
+    <!--Telegram Group Reply-start-->
+    <text name="TelegramReplyAtGroup" value="Recognized support in group" />
+    <text name="TelegramReplyInGroupShortCut" value="Go to group" />
+    <!--Telegram Group Reply-end-->
+    
+    <!--Email Resend start-->
+    <text name="Resend" value="Resend" />
+    <!--Email Resend end-->
+    <!-- Telegram bot Activity 阿拉伯语-->
+    <text name="Telegram_Msg_private_bind" value="لقد قمت بربط حسابك بنجاح! إبدأ بإضافة أعضاء إلى مجموعتنا!
+https://t.me/aelf_arabic" />
+    <text name="Telegram_Msg_private_URL" value="انقر على الرابط أدناه لربط حساب ælf الخاص بك  بالبوت والحصول على المكافأة الخاصة بك." />
+    <text name="Telegram_Msg_private_candy" value="لقد كسبت إلف! اطلع على مزيد من التفاصيل:" />
+    <text name="Telegram_Change_Bot_Language" value="Arab language is set." />
+    <text name="Telegram_ChangeLanguage" value="العربية 🇵🇸" />
+    <!-- Telegram bot Activity 阿拉伯语-->
+    <text name="HomePage">الرئيسية</text>
+    <text name="AboutUs">من نحن</text>
+    <text name="Administration">الإدارة</text>
+    <text name="Roles">الأدوار</text>
+    <text name="Users">المستخدمين</text>
+    <text name="InvalidFormMessage">النموذج يحتوي على أخطاء - يرجى تصحيح الأخطاء و المحاولة مرة اخرى</text>
+    <text name="InvalidUserNameOrPassword">اسم المستخدم أو كلمة المرور غير صحيحة</text>
+    <text name="ThereIsNoTenantDefinedWithName{0}">لا يوجد عميل  باسم {0}</text>
+    <text name="TenantIsNotActive">العميل {0} غير مغعّل</text>
+    <text name="UserIsNotActiveAndCanNotLogin">العضو {0} غير مفعّل ولا يمكن تسجيل الدخول</text>
+    <text name="PleaseEnterLoginInformation">الرجاء إدخال معلومات تسجيل الدخول</text>
+    <text name="TenancyName">اسم العميل</text>
+    <text name="UserNameOrEmail">اسم المستخدم أو البريد الإلكتروني</text>
+    <text name="Password">كلمة المرور</text>
+    <text name="RememberMe">تذكرنى</text>
+    <text name="LogIn">تسجيل الدخول</text>
+    <text name="ForgotPassword">هل نسيت كلمة المرور؟</text>
+    <text name="DontYouHaveAnAccount">ليس لديك حساب؟</text>
+    <text name="CreateAnAccount">إنشاء حساب</text>
+    <text name="Pages">الصفحات</text>
+    <text name="RoleName">اسم الدور</text>
+    <text name="EditRole">تحرير الدور</text>
+    <text name="CreateNewRole">إنشاء دور جديد</text>
+    <text name="RoleProperties">خصائص الدور</text>
+    <text name="Permissions">إذونات</text>
+    <text name="Save">حـفظ</text>
+    <text name="Cancel">إغلاق</text>
+    <text name="RolesHeaderInfo">إستخدم الأدوار لإنشاء مجموعة إذونات</text>
+    <text name="Static">مـثبّت</text>
+    <text name="Actions">إجراءات</text>
+    <text name="Delete">حـذف</text>
+    <text name="SavedSuccessfully">تم الحفظ بنجاح.</text>
+    <text name="AreYouSure">هل أنت متأكد؟</text>
+    <text name="YesDelete">نعم إحذف</text>
+    <text name="DeletingUser"> حذف المستخدم</text>
+    <text name="UsersHeaderInfo">إدارة المستخدمين و الإذونات</text>
+    <text name="CreateNewUser">إنشاء مستخدم جديد</text>
+    <text name="UserName">اسم المستخدم</text>
+    <text name="Name">الإسـم</text>
+    <text name="Surname">الإسم الأخير</text>
+    <text name="EmailAddress">البريد الإلكتروني</text>
+    <text name="LastLoginTime">آخر تسجيل الدخول</text>
+    <text name="EditUser">تحرير المستخدم</text>
+    <text name="UserInformations">تفاصيل المستخدم</text>
+    <text name="PasswordRepeat">أعد كلمة المرور</text>
+    <text name="SuccessfullyDeleted">تم الحذف بنجاح</text>
+    <text name="RoleDeleteWarningMessage">سيتم حذف الدور {0} و سوف يتم إزالة إذونات جميع المستخدمين المعيين بهذا الدور</text>
+    <text name="UserDeleteWarningMessage">سيتم حذف المستخدم {0}.</text>
+    <text name="Active">مفعّل</text>
+    <text name="EmailConfirm"> تأكيد البريد الإلكتروني</text>
+    <text name="Yes">نـعم</text>
+    <text name="No">لا</text>
+    <text name="MySettings">إعداداتي</text>
+    <text name="Logout">تسجيل الخروج</text>
+    <text name="Reset">مسح</text>
+    <text name="ResetPermissionsTooltip"> هذا الزر سيقوم على الفور بمسح إذونات المستخدم. المستخدم سيملك الإذونات المرتبطة بالأدوار المعينة من قبل</text>
+    <text name="ResetSuccessfully">تم المسح بنجاح</text>
+    <text name="Tenants">عملاء</text>
+    <text name="TenantsHeaderInfo">إدارة العملاء</text>
+    <text name="CreateNewTenant">إنشاء عميل الجديد</text>
+    <text name="TenancyCodeName">كود العميل</text>
+    <text name="TenantName">اسم العميل</text>
+    <text name="TenantDeleteWarningMessage">سيتم حذف العميل {0}</text>
+    <text name="AdminEmailAddress">البريد الإلكتروني للمشرف</text>
+    <text name="AdminPassword">كلمة مرور المشرف</text>
+    <text name="AdminPasswordRepeat">إعادة كلمة مرور المشرف</text>
+    <text name="EditTenant">تحرير العميل</text>
+    <text name="ChangingPermissions">تغيير الإذونات</text>
+    <text name="EditingUser"> تحرير المستخدم </text>
+    <text name="CreatingNewUser"> إنشاء مستخدم جديد</text>
+    <text name="Edit">تحرير</text>
+    <text name="EditingTenant">تحرير العميل</text>
+    <text name="CreatingNewTenant">إنشاء عميل الجديد</text>
+    <text name="DeletingTenant">حذف العميل</text>
+    <text name="EditingRole"> تحرير الدور</text>
+    <text name="CreatingNewRole"> إنشاء دور جديد</text>
+    <text name="DeletingRole"> حذف الدور</text>
+    <text name="CreationTime">الإنشاء</text>
+    <text name="SearchWithThreeDot">بـحث...</text>
+    <text name="ResetSpecialPermissions">مسح الإذونات الخاصة</text>
+    <text name="SavingWithThreeDot">حـفظ...</text>
+    <text name="Settings">الإعدادات</text>
+    <text name="SaveAll">إحفظ الكل</text>
+    <text name="SettingsHeaderInfo">عرض وتغيير إعدادات النظام</text>
+    <text name="EmailSmtp">البريد الإلكتروني</text>
+    <text name="DefaultFromAddress">البريد الإلكتروني الافتراضي للمرسل</text>
+    <text name="DefaultFromDisplayName">إسم العرض - للبريد الإلكتروني</text>
+    <text name="SmtpHost">عنوان خادم البريد الإلكتروني - SMTP Host</text>
+    <text name="SmtpPort">رقم المنفذ لخادم البريد الإلكتروني - SMTP Port</text>
+    <text name="UseDefaultCredentials">استخدام معلومات الدخول الافتراضية</text>
+    <text name="DomainName">اسم النطاق</text>
+    <text name="UseSsl">إستخدم SSL</text>
+    <text name="ThisWebSiteRootAddress">عنوان جذر الموقع</text>
+    <text name="ThisWebSiteRootAddress_Hint">سيتم استخدامه عند بناء وصلات تلقائية لبعض المهام. مثل بناء الروابط لإعادة تعيين كلمة المرور. مثال: http://mydomain.com/ </text>
+    <text name="General">عــام</text>
+    <text name="SendPasswordResetLink_Information">سيتم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني. إذا لم يصلك البريد الإلكتروني في غضون بضع دقائق, الرجاء أعد المحاولة.</text>
+    <text name="Send">إرسال</text>
+    <text name="PasswordReset">إعادة تعيين كلمة المرور</text>
+    <text name="InvalidUserNameOrEmailAddress">اسم المستخدم أو البريد الإلكتروني غير صحيح</text>
+    <text name="PasswordResetEmail_Subject">إعادة تعيين كلمة المرور OfficialSite</text>
+    <text name="PasswordResetEmail_Title">إعادة تعيين كلمة المرور OfficialSite</text>
+    <text name="PasswordResetEmail_SubTitle">.تم إرسال هذا البريد الإلكتروني لك لإعادة تعيين كلمة المرور</text>
+    <text name="PasswordResetEmail_ClickTheLinkBelowToResetYourPassword">يرجى الضغط على الرابط بالأسفل لإعادة تعيين كلمة المرور.</text>
+    <text name="EmailActivation_Subject">OfficialSite تفعيل حساب</text>
+    <text name="EmailActivation_Title">OfficialSite مرحبا بك في</text>
+    <text name="EmailActivation_SubTitle">تم إرسال هذه الرساله لتأكيد بريدك الإلكتروني.</text>
+    <text name="EmailActivation_ClickTheLinkBelowToVerifyYourEmail">يرجى الضغط على الرابط أدناه لتأكيد البريد الإلكتروني:</text>
+    <text name="EmailWithDrawalConfirm_eth" value="您的以太坊地址为" />
+    <text name="EmailWithDrawalConfirm_amount" value="，提币金额为" />
+    <text name="EmailWithDrawalConfirm_Subject" value="AELF WithDrawal Confirm Email" />
+    <text name="EmailWithDrawalConfirm_Title" value="确认提币" />
+    <text name="EmailWithDrawalConfirm_ClickTheLinkBelowToVerifyYourEmail" value="请点击下方链接确认提币:" />
+    <text name="InvalidEmailAddress">البريدالالكتروني غير صحيح</text>
+    <text name="InvalidPasswordResetCode">رمز إعادة تعيين كلمة المرور غير صحيح</text>
+    <text name="InvalidPasswordResetCode_Detail">من فضلك تأكد من دخول هذه الصفحة بالضغط على الرابط المرسل إلى بريدك الإلكتروني.  إذا كان هذا لا يحل المشكلة، يمكنك محاولة إعادة تعيين كلمة المرور مره اخرى</text>
+    <text name="PleaseEnterYourNewPassword">الرجاء إدخال كلمة المرور الجديدة</text>
+    <text name="UserEmailIsNotConfirmedAndCanNotLogin">لم يتم تأكيد عنوان بريدك الإلكتروني. يرجى التحقق من بريدك الالكتروني والضغط على رابط تأكيد البريد الإلكتروني لتفعيل حسابك. إذا لم تستلم الرسالة إضغط على "تاكيد البريد الإلكتروني" لإرسال الطلب مره اخرى </text>
+    <text name="LoginFailed">لم نتمكن من تسجيل الدخول!</text>
+    <text name="InvalidEmailConfirmationCode">رمز تأكيد البريد الإلكتروني غير صحيح</text>
+    <text name="InvalidEmailConfirmationCode_Detail">من فضلك تأكد من دخول هذه الصفحة بالضغط على الرابط المرسل إلى بريدك الإلكتروني. إذا كان هذا لا يحل المشكلة، يمكنك محاولة إعادة إرسال رمز التأكيد من جديد.</text>
+    <text name="YourEmailIsConfirmedMessage">تم تأكيد بريدك الإلكتروني بنجاح</text>
+    <text name="ShouldChangePasswordOnNextLogin">يجب تغيير كلمة المرور عند تسجيل الدخول المقبل.</text>
+    <text name="SetRandomPassword">تعيين كلمة مرور عشوائية.</text>
+    <text name="EmailActivation">تفعيل البريد الإلكتروني</text>
+    <text name="SendEmailActivationLink_Information">سيتم إرسال رابط تأكيد بريدك الإلكتروني. إذا لم يصلك البريد الإلكتروني في غضون بضع دقائق, الرجاء أعد المحاولة.</text>
+    <text name="SendActivationEmail">إرسال رسالة تفعيل البريد الإلكتروني.</text>
+    <text name="ChangePassword">تغيير كلمة المرور</text>
+    <text name="CurrentPassword">كلمة المرور الحالية</text>
+    <text name="NewPassword">كلمة المرور الجديدة</text>
+    <text name="NewPasswordRepeat">إعادة كلمة المرور الجديدة</text>
+    <text name="YourPasswordHasChangedSuccessfully">تم تغيير كلمة المرور بنجاح</text>
+    <text name="SelfUserRegistrationIsDisabledMessage">لا يمكنك الإشتراك بالنظام</text>
+    <text name="SelfUserRegistrationIsDisabledMessage_Detail">تم تعطيل إشتراك المستخدم الذاتي يرجى الاتصال بمسؤول النظام للإشتراك.</text>
+    <text name="SuccessfullyRegistered">تم الإشتراك بنجاح</text>
+    <text name="ConfirmationMailSentPleaseClickLinkInTheEmail">تم إرسال تأكيد البريد الإلكتروني إلى  {0} الرجاء الضغط على الرابط في الرسالة لتأكيد بريدك الإلكتروني</text>
+    <text name="YourAccountIsWaitingToBeActivatedByAdmin">حسابك بإنتظار أن يتم تفعيله من قبل مشرف النظام.</text>
+    <text name="NameSurname">الإسم</text>
+    <text name="UserManagement">إدارة المستخدمين</text>
+    <text name="AllowUsersToRegisterThemselves">السماح للمستخدمين بالإشتراك الذاتي على النظام.</text>
+    <text name="AllowUsersToRegisterThemselves_Hint">إذا قمت بتعطيل هذه الخاصية, لا يمكن إضافة المستخدمين إلا من قبل المشرف باستخدام صفحة إدارة المستخدمين</text>
+    <text name="NewRegisteredUsersIsActiveByDefault">المستخدمين الجدد المسجلين هم مغعّلين افتراضيا</text>
+    <text name="NewRegisteredUsersIsActiveByDefault_Hint">إذا قمت بتعطيل هذه الخاصية, المستخدمين الجدد غير مغعّلين (لن يتمكنوا من تسجيل الدخول) حتى يقوم المشرف بتفعيل الحساب يدويا</text>
+    <text name="Default">افتراضي</text>
+    <text name="DefaultRole_Description">تعيين للمستخدمين الجدد كإفتراضي</text>
+    <text name="StaticRole_Tooltip">لا يمكن حذف أدوار ثابتة.</text>
+    <text name="EmailConfirmationRequiredForLogin">مطلوب تأكيد البريد الإلكتروني لتسجيل الدخول </text>
+    <text name="{0}UserCannotBeDeleted">لا يمكن حذف المستخدم {0}.</text>
+    <text name="TenantNameCanNotBeEmpty">اسم العميل لا يمكن أن يكون فارغا</text>
+    <text name="ExportToExcel">تصدير إلى إكسل - Excel</text>
+    <text name="ChangeProfilePicture">تغيير الصورة الشخصية</text>
+    <text name="TenantName_Regex_Description">يجب أن يكون اسم العميل على الأقل حرفين ويبدأ بحرف ومن ثم : حرف أو رقم أو شرطه أو شرطه سفلية.</text>
+    <text name="ProfilePicture_Change_Info">يمكنك إختيار ملف JPG/JPEG/PNG وبحد أقصى للحجم 1024 كيلوبايت  </text>
+    <text name="ProfilePicture_Change_Error">تعذّر تغيير صورة ملفك الشخصي</text>
+    <text name="ProfilePicture_Warn_SizeLimit">يجب أن يكون حجم الصورة أصغر من 1024 كيلوبايت يرجى تحديد ملف آخر</text>
+    <text name="ProfilePicture_Warn_FileType">  يرجى تحديد ملف آخر  JPG / JPEG  يمكنك فقط اختيار ملف</text>
+    <text name="Dashboard">لوحة القيادة</text>
+    <text name="DashboardHeaderInfo">الإحصاءات والتقارير</text>
+    <text name="GoToApplication">الى النظام</text>
+    <text name="TenantInformations">معلومات العميل</text>
+    <text name="PersonalInformations">معلومات شخصية</text>
+    <text name="AccountSettings">إعدادات الحساب</text>
+    <text name="Captha_Hint">الرجاء إدخال الرمز الذي يظهر في الصورة أدناه</text>
+    <text name="Back">العودة</text>
+    <text name="Submit">أرسل</text>
+    <text name="SignUp">إشترك</text>
+    <text name="CaptchaCanNotBeEmpty">الرمز لا يمكن أن يكون فارغا.</text>
+    <text name="IncorrectCaptchaAnswer">الرمز غير صحيح.</text>
+    <text name="FormIsNotValidMessage">النموذج يحتوي على أخطاء. يرجى مراجعة وتصحيح الأخطاء</text>
+    <text name="CanNotChangeAdminUserName">لا يمكن تغيير اسم مستخدم المشرف</text>
+    <text name="Error">خطأ</text>
+    <text name="OopsYouAreLost">عذرا! هل أنت ضال</text>
+    <text name="WeCanNotFindThePage">لم نتمكن من العثور على الصفحة التي تبحث عنها.</text>
+    <text name="DashboardDemo_Note_Title">مرحبا بكم في موقع البداية : أي أس بي نت - زيرو</text>
+    <text name="DashboardDemo_Note_Info">
+      في هذا العرض يمكن استخدام القائمة لإختبار صفحات تعمل بالكامل. 
+    صفحة لوحة القيادة هذه هي فقط لأغراض العرض والنصوص والتواريخ لا معنى لها.
+    تقريبا جميع المعلومات هي معلومات ثابتة باستثناء الرسوم البيانية لنشاط الأعضاء. 
+    عند الضغط على زر التحديث سيتم طلب المعلومات من الخادم الذي يولّد بيانات عشوائية للرسم البياني.
+    </text>
+    <text name="WelcomePage_Title">أهلا بك!</text>
+    <text name="WelcomePage_Info">مرحبا بك بالنظام. يمكنك استخدام القائمة لبدء استخدام النظام. إذا كنت لا ترى أي عنصر بالقائمة ربما لم يكن لديك إذونات. يرجى مراجعة مشرف النظام للحصول على إذونات بالنظام.</text>
+    <text name="RequestedFileDoesNotExists">لم نعثر على الملف المطلوب</text>
+    <text name="MailSent">تم إرسال البريد</text>
+    <text name="PasswordResetMailSentMessage">رابط إعادة تعيين كلمة المرور تم إرساله إلى بريدك الإلكتروني. يرجى التحقق من رسائل بريدك الإلكتروني  </text>
+    <text name="ActivationMailSentMessage">رابط  تأكيد البريد الإلكتروني تم إرساله إلى بريدك الإلكتروني.  يرجى التحقق من رسائل بريدك الإلكتروني  </text>
+    <text name="UseCaptchaOnRegistration">استخدام صورة الأمان (captcha) عند الإشتراك.</text>
+    <text name="FormBasedRegistration">نوعية الإشتراك (form)</text>
+    <text name="LdapSettings">إعدادات LDAP</text>
+    <text name="EnableLdapAuthentication">تمكين مصادقة LDAP</text>
+    <text name="OtherSettings">إعدادات اخرى</text>
+    <text name="AuditLogs">سجلات التدقيق</text>
+    <text name="Success">نجاح</text>
+    <text name="Time">وقت</text>
+    <text name="Service">خدمة</text>
+    <text name="Action">إجراء</text>
+    <text name="Duration">المدة</text>
+    <text name="IpAddress">عنوان IP</text>
+    <text name="Client">زائر</text>
+    <text name="Browser">المتصفح</text>
+    <text name="Xms">{0} جزء ث.</text>
+    <text name="Close">إغلاق</text>
+    <text name="Refresh">تحديث</text>
+    <text name="ErrorState">حالة خطأ</text>
+    <text name="All">الجميع</text>
+    <text name="HasError">يوجد خطأ</text>
+    <text name="ShowAdvancedFilters">إظهار الفلاتر المتقدمة</text>
+    <text name="HideAdvancedFilters">إخفاء الفلاتر المتقدمة</text>
+    <text name="AuditLogDetail">تفاصيل سجل التدقيق</text>
+    <text name="Parameters">المعلمات</text>
+    <text name="DateRange">نطاق التاريخ</text>
+    <text name="ActionInformations">معلومات العمل</text>
+    <text name="Today">اليوم</text>
+    <text name="Yesterday">اليوم السابق</text>
+    <text name="Last7Days">اخر 7 ايام</text>
+    <text name="Last30Days">اخر 30 يوم</text>
+    <text name="ThisMonth">هذا الشهر</text>
+    <text name="LastMonth">الشهر الماضي</text>
+    <text name="TenantSelection">اختيار العميل</text>
+    <text name="TenantSelection_Detail">الرجاء اختيار واحد من العملاء</text>
+    <text name="LoginWith">تسجيل الدخول مع:</text>
+    <text name="PasswordChangeDontRememberMessage">إذا كنت لا تتذكر كلمة المرور {0}.</text>
+    <text name="ClickHere">إضغط هنا</text>
+    <text name="Apply">تطبيق</text>
+    <text name="CustomRange">مدى مخصص</text>
+    <text name="DashboardNoteForMpaVersion">
+      <![CDATA[
+       راجع الموقع التجريبي ذو الصفحات المتعددة <strong>ASP.NET MVC</strong> مع <strong>jQuery</strong>.
+       ]]>
+    </text>
+    <text name="DashboardNoteForSpaVersion">
+      <![CDATA[
+       ملاحظة: يوجد أيضا  <strong>موقع تجريبي بصفحة واحدة</strong> مطوّر بإستخدام ASP.NET MVC مع <strong>AngularJs</strong>.
+       ]]>
+    </text>
+    <text name="SeeDemo">مشاهدة الموقع التجريبي</text>
+    <text name="Edition">نسخة</text>
+    <text name="Editions">النسخات</text>
+    <text name="EditionsHeaderInfo">إدارة النسخات ومميزات النظام</text>
+    <text name="CreateNewEdition">إنشاء نسخة جديدة</text>
+    <text name="EditEdition">تحرير نسخة</text>
+    <text name="EditionProperties">خصائص النسخة</text>
+    <text name="EditionName">اسم النسخة</text>
+    <text name="Features">مميزات</text>
+    <text name="EditionDeleteWarningMessage">سيتم حذف {0} وسحبها من جميع العملاء</text>
+    <text name="CreatingNewEdition">إنشاء نسخة جديدة</text>
+    <text name="EditingEdition"> تحرير النسخة</text>
+    <text name="DeletingEdition">حذف النسخة</text>
+    <text name="ChangingFeatures"> تغيير المميزات</text>
+    <text name="ResetSpecialFeatures">مسح المميزات الخاصة</text>
+    <text name="ResetFeaturesTooltip">هذا الزر سيقوم على الفور بمسح المميزات للعميل. العميل سيملك المميزات المرتبطة بالنسخات المعينة من قبل.</text>
+    <text name="NotAssigned">لم يعيّن</text>
+    <text name="InvalidFeaturesWarning">واحد أو أكثر من قيم الميزة غير صحيح</text>
+    <text name="Languages">اللغات</text>
+    <text name="LanguagesHeaderInfo">إدارة لغات واجهة المستخدم</text>
+    <text name="CreateNewLanguage">لغة جديدة</text>
+    <text name="Code">رمز</text>
+    <text name="CreatingNewLanguage">إنشاء لغة جديدة</text>
+    <text name="EditingLanguage">تحرير الغة</text>
+    <text name="DeletingLanguages">حذف اللغة</text>
+    <text name="ChangingTexts">تغيير النصوص</text>
+    <text name="SuccessfullySaved">تم الحـفظ بنجاح</text>
+    <text name="Language">لغة</text>
+    <text name="Flag">علم</text>
+    <text name="SetAsDefaultLanguage">تعيين اللغة الافتراضية</text>
+    <text name="InvlalidLanguageCode">رمز اللغة غير صحيح</text>
+    <text name="EditLanguage">تحرير اللغة</text>
+    <text name="ChangeTexts">تغيير النصوص</text>
+    <text name="TargetValue">النص الهدف</text>
+    <text name="BaseValue">النص الأساسي</text>
+    <text name="Key">مفتاح</text>
+    <text name="SaveAndClose">حـفظ وإغلاق</text>
+    <text name="SaveAndNext">حـفظ و التالي</text>
+    <text name="EditText">تحرير النص</text>
+    <text name="LanguageTexts">نصوص اللغة</text>
+    <text name="LanguageTextsHeaderInfo">تعديل نصوص الغات</text>
+    <text name="EmptyOnes">الفارغة</text>
+    <text name="Source">مصدر</text>
+    <text name="BaseLanguage">اللغة الأساسية</text>
+    <text name="TargetLanguage">اللغة الهدف</text>
+    <text name="Previous">السابق</text>
+    <text name="LanguageDeleteWarningMessage">هل أنت متأكد من حذف اللغة {0}</text>
+    <text name="CanNotEditOrDeleteDefaultLanguages">لا يمكن تعديل أو حذف اللغات الافتراضية. يمكنك فقط تعديل أو حذف اللغات التي قمت بإضافتها. ولكن يمكنك تغيير نصوص جميع اللغات</text>
+    <text name="LookingForMpaVersion"> البحث عن موقع متعدد الصفحات</text>
+    <text name="LookingForSpaVersion"> البحث عن موقع ذو صفحة واحدة</text>
+    <text name="ThisLanguageAlreadyExists" value="هذه اللغة موجودة مسبقا" />
+    <text name="OrganizationUnitsHeaderInfo" value="استخدم الوحدات التنظيمية لتجميع المستخدمين و الكيانات" />
+    <text name="OrganizationTree" value="الهيكل التنظيمي" />
+    <text name="Members" value="الأعضاء" />
+    <text name="SelectAnOrganizationUnitToSeeMembers" value="إختر وحدة تنظيمية لمعاينة الأعضاء" />
+    <text name="OrganizationUnitDeleteWarningMessage" value="هل أنت متأكد من حذف الوحدة التنظيمية {0} ؟" />
+    <text name="AddSubUnit" value="أضف وحدة ثانوية" />
+    <text name="AddMember" value="أضف عضو" />
+    <text name="SuccessfullyAdded" value="تمت الإضافة بنجاح." />
+    <text name="RemoveUserFromOuWarningMessage" value="هل أنت متأكد من إزالة المستخدم {0} من الوحدة {1} ؟" />
+    <text name="SuccessfullyRemoved" value="تمت الإزالة بنجاح." />
+    <text name="SelectAnItem" value="إختر سجل" />
+    <text name="NewOrganizationUnit" value="وحدة تنظيمية جديدة" />
+    <text name="SelectAUser" value="إختر مستخدم" />
+    <text name="Select" value="إختر" />
+    <text name="UserIsAlreadyInTheOrganizationUnit" value="هذا المستخدم موجود في الوحدة التنظيمية !" />
+    <text name="AddRootUnit" value="أضف وحدة جذرية" />
+    <text name="AddUser" value="أضف مستخدم" />
+    <text name="NoOrganizationUnitDefinedYet" value="لا توجد وحدات تنظيمية." />
+    <text name="OrganizationUnitMoveConfirmMessage" value="هل أنت متأكد من نقل {0} الى {1} ؟" />
+    <text name="Root" value="جذر" />
+    <text name="SuccessfullyMoved" value="تم النقل بنجاح." />
+    <text name="AddedTime" value="الإضافة" />
+    <text name="ManagingMembers" value="إدارة الأعضاء" />
+    <text name="ManagingOrganizationTree" value="إدارة الوحدات التنظيمية" />
+    <text name="LoginForUsers" value="تسجيل دخول المستخدمين" />
+    <text name="LoginAsThisUser" value="تسجيل الدخول كالمستخدم هذا" />
+    <text name="BackToMyAccount" value="العودة لحسابي" />
+    <text name="LoginForTenants" value="تسجيل دخول العملاء" />
+    <text name="LoginAsThisTenant" value="تسجيل الدخول كالعميل هذا" />
+    <text name="AuditLogImpersonatedOperationInfo" value="ملاحظة: يتم تنفيذ هذه العملية من قبل مستخدم آخر نيابة عن هذا المستخدم. " />
+    <text name="CustomData" value="بيانات مخصصة" />
+    <text name="None" value="لا شيء" />
+    <text name="YouCanBackToYourAccount" value="يمكنك العودة لحسابك هنا." />
+    <text name="CascadeImpersonationErrorMessage" value="لايمكن ثمتيل شخص آخر. لان تسجيل دخولك الحالي ممثّل من قبل مستخدم آخر." />
+    <text name="FromTenantToHostImpersonationErrorMessage" value="لا يمكن تمثيل مستخدم النظام من مستخدم العميل." />
+    <text name="DifferentTenantImpersonationErrorMessage" value="لا يمكن تمثيل مستخدم من عميل آخر!" />
+    <text name="ImpersonationTokenErrorMessage" value="رمز التمثيل غير صالح أو منتهية صلاحيتة!" />
+    <text name="NotImpersonatedLoginErrorMessage" value="هذا ليس تسجيل دخول ممثّل" />
+    <text name="YouCannotLinkToSameAccount">لايمكن ربط نفس الحساب</text>
+    <text name="ChangePasswordBeforeLinkToAnAccount">يجب تغيير كلمة المرور قبل ربط هذا الحساب</text>
+    <text name="LinkedAccounts">حسابات مرتبطة</text>
+    <text name="ManageAccounts">إدارة الحسابات</text>
+    <text name="LinkNewAccount">ربط حساب</text>
+    <text name="SuccessfullyUnlinked">تم إزالة الربط بنجاح.</text>
+    <text name="LinkedUserDeleteWarningMessage">سيتم إزالة الربط بالمستخدم {0}</text>
+    <text name="SwitchToLinkedAccountTokenErrorMessage" value="رمز التمثيل غير صالح أو منتهية صلاحيتة!" />
+    <text name="WelcomeToTheApplicationNotificationMessage" value="أهلا و سهلا بك لنظام OfficialSite! للإخطارات. نظام الإخطارات يستخدم لإعلامك عن إخطارات من النظام أو المستخدمين . يمكنك إختيار نوع الإخطارات التي تريد أن تتلقاها من خلال إعادات الإخطارات." />
+    <text name="NewUserRegisteredNotificationDefinition" value="عند إنشاء حساب مستخدم جديد بالنظام." />
+    <text name="NewUserRegisteredNotificationMessage" value="تم إنشاء حساب جديد بالنظام. المستخدم: {userName}, البريد الالكتروني: {emailAddress}." />
+    <text name="SeeAllNotifications" value="جميع الإخطارات" />
+    <text name="SetAsRead" value="تعيين كمقروء" />
+    <text name="SetAllAsRead" value="تعيين الكل مقروء" />
+    <text name="NotificationSettings" value="إعدادات الإخطارات" />
+    <text name="ReceiveNotifications" value="تلقي الإخطارات" />
+    <text name="ReceiveNotifications_Definition" value="هذا الخيار يمكن استخدامة لتمكين / تعطيل الإخطارات." />
+    <text name="NotificationTypes" value="أنواع الإخطارات" />
+    <text name="ReceiveNotifications_DisableInfo" value="تلقي الإخطارات معطّل. عند تمكينه يمكنك تحديد أنواع الإخطارات التي تريد الحصول عليها." />
+    <text name="Notifications" value="إخطارات" />
+    <text name="ThereIsNoNotification" value="لاتوجد إخطارات." />
+    <text name="Unread" value="غير مقروء" />
+    <text name="YouCanNotDeleteOwnAccount" value="لا يمكنك حذف حسابك!" />
+    <text name="On" value="ممكّن" />
+    <text name="Off" value="معطّل" />
+    <text name="Maintenance">الصيانة</text>
+    <text name="Caches">ذاكرة التخزين المؤقت</text>
+    <text name="CacheSuccessfullyCleared">تم مسح ذاكرة التخزين المؤقت بنجاح.</text>
+    <text name="AllCachesSuccessfullyCleared">تم مسح كل ذاكرة التخزين المؤقت بنجاح.</text>
+    <text name="ClearAll">مسح الكل</text>
+    <text name="Clear">مسح</text>
+    <text name="CachesHeaderInfo">بهذة الصفحة يمكنك مسح الذاكرة المؤقتة للنظام.</text>
+    <text name="TestEmailSettingsHeader">تجربة إعدادات البريد الإلكتروني</text>
+    <text name="SendTestEmail">تجربة إرسال بريد</text>
+    <text name="TestEmail_Subject">تجربة بريد قالب أي بي بي زيرو</text>
+    <text name="TestEmail_Body">هذا بريد للتجربة فقط.</text>
+    <text name="TestEmailSentSuccessfully">تم إرسال بريد التجربة بنجاح.</text>
+    <text name="WebSiteLogs">سجلات الموقع</text>
+    <text name="WebSiteLogsHeaderInfo">يمكنك ان ترى كل السجلات في هذه الصفحة أو تحميل جميع السجلات في ملف مضغوط واحد.</text>
+    <text name="DownloadAll">تحميل الكل</text>
+    <text name="TenantManagement">إدارة العملاء</text>
+    <text name="AllowTenantsToRegisterThemselves" value="السماح للعملاء بالتسجيل بالنظام." />
+    <text name="AllowTenantsToRegisterThemselves_Hint" value="إذا قمت بتعطيل هذا, يمكن فقط إضافة العملاء من قبل المشرف من خلال صفحة إدارة العملاء." />
+    <text name="NewRegisteredTenantsIsActiveByDefault" value="العملاء المسشتركين جديدا سيتم تفعيلهم إفتراضيا." />
+    <text name="NewRegisteredTenantsIsActiveByDefault_Hint" value="إذا قمت بتعطيل هذا، العملاء الجدد لن يكونوا مفعلين (ولا يمكن تسجيل الدخول) حتى يقوم المشرف بتفعيل الحساب يدويا." />
+    <text name="TenantSignUp">إشتراك العميل</text>
+    <text name="NewTenantRegisteredNotificationDefinition" value="عند إشتراك عميل جديد بالنظام." />
+    <text name="NewTenantRegisteredNotificationMessage" value="تم إشتراك عميل جديد بالنظام. إسم العميل : {tenancyName}." />
+    <text name="LoginAttempts">محاولات الدخول</text>
+    <text name="Failed">فشل</text>
+    <text name="NewTenant">إشتراك العملاء</text>
+    <text name="ResizedProfilePicture_Warn_SizeLimit" value="حجم الصورة بعد التصغير يجب أن يكون أقل من 100 كيلوبايت. قم بتصغير الصورة وحاول مرة اخرى." />
+    <text name="RegisterFormUserNameInvalidMessage">من فضلك لاتدخل بريد إلكتروني كإسم مستخدم.</text>
+    <text name="UseHostDatabase" value="إستخدم قاعدة بيانات المضيف" />
+    <text name="DatabaseConnectionString" value="Database connection string" />
+    <text name="TenantDatabaseConnectionStringChangeWarningMessage" value="ملاحظة: قبل تغيير طريقة إتصال قاعدة بيانات العميل, عليك نقل قاعدة بيانات العميل الى الوجهة الجديدة. تغيير طريقة الإتصال لاتنقل قاعدة بيانات العميل." />
+    <text name="Timezone">منطقة زمنية</text>
+    <text name="HasOwnDatabase">لديه قاعدة بيانات خاصة</text>
+    <text name="TimeZoneSettingChangedRefreshPageNotification">تم تغيير إعدادات المنطقة الزمنية. انقر على زر موافق لتحديث الصفحة وسيتم تفعيل التغييرات.</text>
+    <text name="Ok">موافق</text>
+    <text name="Permission">إذونات</text>
+    <text name="Role">دور</text>
+    <text name="Security">الأمن</text>
+    <text name="PasswordComplexity">تركيبه كلمة المرور</text>
+    <text name="UseDefaultSettings">إستخدام الإعدادات الإفتراضية</text>
+    <text name="PasswordComplexityNotSatisfied">تركيبه كلمة المرور غير صالحه.</text>
+    <text name="YouAlreadySentAFriendshipRequestToThisUser">سبق وأن أضفت هذا المستخدم.</text>
+    <text name="YouCannotBeFriendWithYourself">لا يمكنك مصادقة حسابك.</text>
+    <text name="NewChatMessageEmail_Title">تفاصيل الرسالة</text>
+    <text name="NewChatMessageEmail_SubTitle"></text>
+    <text name="NewChatMessageEmail_Subject">توجد رسالة جديدة</text>
+    <text name="Sender">المرسل</text>
+    <text name="Message">الرسالة</text>
+    <text name="UserBlocked">تم حظر المستخدم بنجاح.</text>
+    <text name="UserUnblocked">تم رفع الحظر من المستخدم بنجاح.</text>
+    <text name="BlockUser">حظر</text>
+    <text name="UnblockUser">رفع الحظر</text>
+    <text name="FriendshipRequestAccepted">تم قبول طلب الإضافة</text>
+    <text name="UserSendYouAFriendshipRequest">أضافك {0}</text>
+    <text name="Friends">أصدقاء</text>
+    <text name="Others">أخرون</text>
+    <text name="BlockedUsers">محظورين</text>
+    <text name="YouDontHaveAnyFriend">لا يوجد أحد. قم بكتابة إسم المسنخدم بالأعلى ثم إضغط زر الإضافة.</text>
+    <text name="YouDontHaveAnyBlockedFriend">لا يوجد محظورين. للحظر, إختر المستخدم ثم قم بإختيار حظر من قائمة الإجراءات.</text>
+    <text name="ChatUserSearch_Hint">
+      <![CDATA[
+        للمستخدمين من نفس العميل ,إكتب إسم المتسخدم فقط <br>
+       <strong>[اسم العميل]\[اسم المستخدم]</strong> للمستخدمين من عملاء آخرين <br><br>
+       مثال: <br>
+       .\admin -> للمشرف العام المضيف <br>
+       Test\admin -> للمشرف العميل Test <br>
+       admin -> للمشرف المحلي
+       ]]>
+    </text>
+    <text name="AddFriend">أضف</text>
+    <text name="TypeAMessageHere">اكتب رسالتك هنا...</text>
+    <text name="Chat">دردشة</text>
+    <text name="ChatFeature">دردشة</text>
+    <text name="ChatFeatureIsNotEnabledForSender">لم يتم تمكين الدردشة لك.</text>
+    <text name="ChatFeatureIsNotEnabledForReceiver">لم يتم تمكين الدردشة للعميل.</text>
+    <text name="UserIsBlocked">المستخدم محظور.</text>
+    <text name="ChatIsNotConnectedWarning">غير متصل بالدردشة.</text>
+    <text name="Demo_SampleChatMessage">مرحبا، هذه رسالة اختبار. الرجاء الدخول بحسابي في متصفح آخر وتحقق من كيفية عمل ميزة الدردشة .</text>
+    <text name="TenantToTenantChatFeatureIsNotEnabledForSender">لم يتم تمكين الدردشة لك مع العملاء الآخرين.</text>
+    <text name="TenantToTenantChatFeatureIsNotEnabledForReceiver">لم يتم تمكين الدردشة للعميل مع العملاء الآخرين.</text>
+    <text name="TenantToHostChatFeatureIsNotEnabledForSender">لم يتم تمكين الدردشة لك مع المضيف.</text>
+    <text name="TenantToHostChatFeatureIsNotEnabledForReceiver">لم يتم تمكين الدردشة للعميل مع المضيف.</text>
+    <text name="TenantToTenantChatFeature">الدردشة مع العملاء الآخرين</text>
+    <text name="TenantToHostChatFeature">الدردشة مع المضيف</text>
+    <text name="FilterByPermission">تصفية حسب الاذونات</text>
+    <text name="FilterByRole">تصفية حسب الدور</text>
+    <text name="FilterOrAddUser">تصفية\إضافة مستخدم</text>
+    <text name="HangfireDashboard" value="Hangfire dashboard" />
+    <text name="CouldNotCompleteLoginOperation">تعذر إكمال عملية تسجيل الدخول.</text>
+    <text name="UnAuthorizedOperation">عملية غير مصرح بها</text>
+    <text name="YouAreNotAuthorizedToPerformThisOperation">غير مصرح لك بتنفيذ هذه العملية.</text>
+    <text name="TargetUserNotFoundProbablyDeleted">لم يتم العثور على المستخدم المطلوب. من المحتمل تم حذفه.</text>
+    <text name="UserLockedOutMessage">تم قفل حساب المستخدم. الرجاء معاودة المحاولة في وقت لاحق.</text>
+    <text name="SendSecurityCode">إرسال رمز الأمان.</text>
+    <text name="SendSecurityCode_Information">يجب التحقق من حسابك للدخول. الرجاء اختيار نوع التحقق. سيتم إرسال رمز على حسب نوع التحقق المحدد.</text>
+    <text name="SendSecurityCodeErrorMessage">تعذر إرسال رمز الأمان!</text>
+    <text name="VerifySecurityCodeNotLoggedInErrorMessage">يجب عليك تسجيل الدخول أولا، من أجل التحقق من حسابك! على الأرجح، تم تسجيل الخروج التلقائي. يرجى التوجه إلى صفحة تسجيل الدخول وإعادة المحاولة.</text>
+    <text name="VerificationCode">رمز التحقق</text>
+    <text name="VerifySecurityCode">التحقق من رمز الأمان</text>
+    <text name="VerifySecurityCode_Information">الرجاء إدخال رمز التحقق المرسل إليك.</text>
+    <text name="RememberThisBrowser">تذكر هذا المتصفح</text>
+    <text name="InvalidSecurityCode">رمز الأمان غير صالح!</text>
+    <text name="PhoneNumber">رقم الهاتف</text>
+    <text name="Unlock">فتح القفل</text>
+    <text name="UnlockedTheUser">فتح قفل المستخدم {0}</text>
+    <text name="UserLockOut">قفل المستخدم</text>
+    <text name="EnableUserAccountLockingOnFailedLoginAttemts">تمكين تأمين محاولات الدخول الفاشلة</text>
+    <text name="MaxFailedAccessAttemptsBeforeLockout">الحد الأقصى لعدد المحاولات الفاشلة لتسجيل الدخول قبل قفل الحساب</text>
+    <text name="DefaultAccountLockoutDurationAsSeconds">مدة قفل الحساب ( بالثواني)</text>
+    <text name="TwoFactorLogin">توثيق تسجيل الدخول ذو عاملين</text>
+    <text name="EnableTwoFactorLogin">تمكين توثيق تسجيل الدخول ذو عاملين.</text>
+    <text name="IsEmailVerificationEnabled">تمكين التوثيق عن طريق البريد الإلكتروني.</text>
+    <text name="IsSmsVerificationEnabled">تمكين التوثيق عن طريق الرسائل الهاتفية - أس أم أس.</text>
+    <text name="AllowToRememberBrowserForTwoFactorLogin">السماح بتذكر المتصفح. إذا تم تمكين هذه، يمكن للمستخدم اختيار تذكر المتصفح لتخطي التوثيق ذوعاملين عند تسجيل الدخول بنفس المتصفح للمرة الثانية.</text>
+    <text name="CurrentTenant">العميل الحالي</text>
+    <text name="NotSelected">لم يتم اختياره</text>
+    <text name="Change">تغيير</text>
+    <text name="ChangeTenant">تغيير العميل</text>
+    <text name="UnknownTenantId{0}" value="عميل غير معرّف رقم : {0}" />
+    <text name="TenantIdIsNotActive{0}" value="عميل غير نشط رقم : {0}" />
+    <text name="TimeoutPleaseTryAgain">نفذ الوقت! حاول مرة اخرى.</text>
+    <text name="RemainingTime">الوقت المتبقي</text>
+    <text name="SecondShort{0}">{0} ث</text>
+    <text name="ResetCode">كود إعادة تعيين</text>
+    <text name="IsTwoFactorEnabled">تمكين التوثيق ذو عاملين</text>
+    <text name="IsLockoutEnabled">تمكين قفل الحسابات</text>
+    <text name="IsLockoutEnabled_Hint">تم قفل حساب المستخدم لفترة من الوقت بعد كمية من محاولات الدخول الفاشلة.</text>
+    <text name="TenantRegistrationLoginInfo">إضغط هنا لتسجيل الدخول</text>
+    <text name="CouldNotValidateExternalUser">لم نتمكن من التحقق من صحة تسجيل دخول المستخدم الخارجي</text>
+    <text name="LeaveEmptyToSwitchToHost">اتركه فارغا للتبديل إلى المضيف</text>
+    <text name="PleaseWaitToConfirmYourEmailMessage">الرجاء الانتظار لحين تأكيد عنوان البريد الإلكتروني...</text>
+    <text name="ChatIsConnecting">جاري الإتصال بالدردشة....</text>
+    <text name="Note_RefreshPageForPermissionChanges">إذا كنت تقوم بتغيير الأذونات الخاصة بك، قد تحتاج لتحديث الصفحة (F5) لتصبح التغييرات نافذة المفعول على شاشتك!</text>
+    <text name="ApplicationLogo">شعار التطبيق</text>
+    <text name="CustomCSS">ملف Css خاص</text>
+    <text name="Upload">رفع</text>
+    <text name="Download">تحميل</text>
+    <text name="UploadLogo_Info">إختر ملف JPG / JPEG / PNG / GIF  بحجم 30 KB  كحد أقصى و 168X33  بكسل.</text>
+    <text name="UploadCSS_Info">إختر ملف CSS بحجم MB 1  كحد أقصى.</text>
+    <text name="Browse">تصفَح</text>
+    <text name="Appearance">المظهر</text>
+    <text name="ClearedSuccessfully">مسح بنجاح</text>
+    <text name="File_Empty_Error">الرجاء إختيار ملف !</text>
+    <text name="File_SizeLimit_Error">حجم الملف يتجاوز الحدود المسموح بها !</text>
+    <text name="File_Invalid_Type_Error">نوع الملف غير صالح !</text>
+    <text name="MaximumUserCount">الحد الأقصى لعدد المستخدمين</text>
+    <text name="MaximumUserCount_Description">0 = غير محدود</text>
+    <text name="MaximumUserCount_Error_Message">وصلت إلى الحد الأقصى المسموح به للمستخدمين!</text>
+    <text name="MaximumUserCount_Error_Detail">يسمح لهذا العميل {0} مستخدم بحد أقصى.</text>
+    <text name="UnlockedTenandAdmin">تم إلغاء قفل المشرف {0}</text>
+    <text name="Email">البريد الإلكتروني</text>
+    <text name="EmailSecurityCodeSubject">رمز الحماية</text>
+    <text name="EmailSecurityCodeBody">رمز الحماية هو: {0}</text>
+    <text name="Sms">SMS - رسائل قصيرة</text>
+    <text name="SmsSecurityCodeMessage">رمز الحماية هو: {0}</text>
+    <text name="PasswordComplexity_RequireDigit_Hint">يجب أن تحتوي كلمات المرور على رقم واحد على الأقل ('0' - '9').</text>
+    <text name="PasswordComplexity_RequireLowercase_Hint">يجب أن تحتوي كلمات المرور على حرف صغير واحد على الأقل ('a' - 'z').</text>
+    <text name="PasswordComplexity_RequireNonAlphanumeric_Hint">يجب أن تحتوي كلمات المرور على حرف غير أبجدي وغير رقمي واحد على الأقل.</text>
+    <text name="PasswordComplexity_RequireUppercase_Hint">يجب أن تحتوي كلمات المرور على حرف واحد كبير على الأقل ('A' - 'Z').</text>
+    <text name="PasswordComplexity_RequiredLength_Hint">يجب أن تتكون كلمات المرور من {0} حرفا على الأقل.</text>
+    <text name="PasswordComplexity_RequireDigit">تتطلب أرقام</text>
+    <text name="PasswordComplexity_RequireLowercase">تتطلب أحرف صغيرة</text>
+    <text name="PasswordComplexity_RequireNonAlphanumeric">تتطلب أحرف غير أبجدية وغير رقمية</text>
+    <text name="PasswordComplexity_RequireUppercase">تتطلب أحرف كبيرة</text>
+    <text name="PasswordComplexity_RequiredLength">العدد المطلوب من الأحرف</text>
+    <text name="HostDashboardHeaderInfo">الإحصاءات العامة والأنشطة الأخيرة</text>
+    <text name="DashboardSampleStatistics">عينة من الإحصاءات</text>
+    <text name="DashboardSampleStatisticsHelpText">التقدم</text>
+    <text name="NewTenants">عملاء جدد</text>
+    <text name="NewSubscriptionAmount">مبلغ الاشتراك الجديد</text>
+    <text name="Income">دخل</text>
+    <text name="IncomeStatistics">إحصاءات الدخل</text>
+    <text name="ChangeDateRange">تغيير النطاق الزمني</text>
+    <text name="Daily">يومي</text>
+    <text name="Weekly">إسبوعي</text>
+    <text name="Monthly">شهري</text>
+    <text name="DateFormatShort">MM.dd.yyyy</text>
+    <text name="EditionStatistics">إحصاءات النسخة</text>
+    <text name="SubscriptionExpiringTenants">عملاء بإشتراكات تنتهي</text>
+    <text name="RemainingDay">الأيام المتبقية</text>
+    <text name="SeeAllRecords">الجميع</text>
+    <text name="RecentTenants">آخر العملاء</text>
+    <text name="RecentTenantsHelpText">آخر {1} من العملاء المسجلين في {0} يوما ...</text>
+    <text name="ExpiringTenantsHelpText">تنتهي صلاحية {1} من العملاء خلال {0} أيام ...</text>
+    <text name="NoData">لايوجد بيانات</text>
+    <text name="SubscriptionEndDate">تاريخ انتهاء الاشتراك</text>
+    <text name="TenantNameOrTenancyCode">إسم العميل \ كود العميل</text>
+    <text name="IncomeWithAmount">الدخل: {0}</text>
+    <text name="Subscription">الاشتراكات</text>
+    <text name="Extend">تمديد</text>
+    <text name="Upgrade">ترقية</text>
+    <text name="PaymentPeriodType">نوع فترة الدفع</text>
+    <text name="PaymentInfo">معلومات الدفع</text>
+    <text name="MonthlyPrice">السعر الشهري</text>
+    <text name="AnnualPrice">السعر السنوي</text>
+    <text name="StartUsingFree">بدء استخدام مجاني</text>
+    <text name="TryIt">تجربة</text>
+    <text name="Days">أيام</text>
+    <text name="PerMonth">كل شهر</text>
+    <text name="PerYear">كل سنة</text>
+    <text name="TestCheckFeature">اختبار ميزة الاختيار</text>
+    <text name="TestCheckFeature2">اختبار ميزة الاختيار 2</text>
+    <text name="Unlimited">غير محدود</text>
+    <text name="LatestPaymentAmount">أحدث مبلغ مدفوع</text>
+    <text name="Payment">دفعات</text>
+    <text name="Next">التالي</text>
+    <text name="Start">بدء</text>
+    <text name="FreeTrial">تجربة مجانية</text>
+    <text name="BuyNow">اشتري الآن</text>
+    <text name="WhatWillDoneAfterSubscriptionExpiry">ما الذي سيحدث بعد انتهاء صلاحية الاشتراك</text>
+    <text name="DeactiveTenant">تعطيل العميل</text>
+    <text name="AssignToAnotherEdition">تعيين إلى نسخة اخرى</text>
+    <text name="SubscriptionPrice">سعر الإشتراك</text>
+    <text name="Free">مجاني</text>
+    <text name="Paid">مدفوع</text>
+    <text name="IsTrialActive">يمكن التجربة</text>
+    <text name="TrialDayCount">عدد أيام التجربة</text>
+    <text name="WaitAfterSubscriptionExpireDate">انتظر بعد انتهاء صلاحية الاشتراك</text>
+    <text name="WaitingDayAfterExpire">أيام الانتظار بعد انتهاء الصلاحية</text>
+    <text name="DisplayOrder">DisplayOrder</text>
+    <text name="Annual">سنوي</text>
+    <text name="SubscriptionStartDate">تاريخ بدء الاشتراك</text>
+    <text name="Pricing">التسعير</text>
+    <text name="ClientIsRequestingYourPermission">{0} يطلب منك الإذن</text>
+    <text name="ApplicationAccess">الوصول إلى التطبيق</text>
+    <text name="RememberMyDecision">تذكر إختياري</text>
+    <text name="Allow">السماح</text>
+    <text name="DoNotAllow">لا تسمح</text>
+    <text name="Your user identifier">معرف المستخدم</text>
+    <text name="Required">مطلوب</text>
+    <text name="User profile">ملف المستخدم</text>
+    <text name="Your user profile information (first name, last name, etc.)">معلومات الملف الشخصي للمستخدم (الاسم الأول واسم العائلة وما إلى ذلك)</text>
+    <text name="Your email address">عنوان بريدك الإلكتروني</text>
+    <text name="Your phone number">رقم تليفونك</text>
+    <text name="Your postal address">عنوانك البريدي</text>
+    <text name="AllFunctionalityYouHaveInTheApplication">جميع الوظائف لديك في التطبيق</text>
+    <text name="Default (all) API">الافتراضي (الكل) API</text>
+    <text name="Offline Access">الوصول دون اتصال</text>
+    <text name="Access to your applications and resources, even when you are offline">الوصول إلى التطبيقات والموارد الخاصة بك، حتى عندما لاتكون متصلا</text>
+    <text name="Purchase">شراء</text>
+    <text name="Trial">تجربة</text>
+    <text name="IsDisabled">معطل</text>
+    <text name="ChartDateFormat">%m/%d/%Y</text>
+    <text name="ThereIsNoLoggedInUser">ليس هناك مستخدم مسجل.</text>
+    <text name="IsInTrialPeriod">حاليا في الفترة التجريبية؟</text>
+    <text name="FailedSubscriptionTerminations_Email_Subject">أخفاق في إنهاء الاشتراك</text>
+    <text name="FailedSubscriptionTerminations_Email_Body">فشل إنهاء الاشتراك للعملاء التاليين {0} في {1}. يمكنك العثور على رسائل الخطأ المفصلة في سجلات النظام.</text>
+    <text name="SubscriptionExpire_Email_Subject"> انتهت صلاحية اشتراك OfficialSite</text>
+    <text name="SubscriptionExpire_Email_Body">انتهت صلاحية اشتراك OfficialSite في {0}.</text>
+    <text name="UnlimitedTimeSubscription">اشتراك غير محدود</text>
+    <text name="SubscriptionEndDateUtc">تاريخ انتهاء الاشتراك (التوقيت العالمي)</text>
+    <text name="ExpiringEditionMustBeAFreeEdition">يجب أن تكون النسخة التي تنتهي صلاحيتها نسخة مجانية</text>
+    <text name="ThisEditionIsUsedAsAnExpiringEdition">يتم استخدام هذه النسخة كنسخة تنتهي صلاحيتها لنسخة أخرى. إذا كنت تريد جعل هذه النسخة مدفوعة، يجب عليك أولا إزالتها من النسخ الأخرى.</text>
+    <text name="UpgradedTo">تمت الترقية إلى النسخة {0}</text>
+    <text name="ExtendedEdition">تم تمديد النسخة {0}</text>
+    <text name="TrialSubscriptionNotification">أنت في الفترة التجريبية لنسخة {0}، {1} للشراء.</text>
+    <text name="SubscriptionExpireNotification">سينتهي اشتراكك خلال {0} أيام.</text>
+    <text name="TrialExpireNotification">ستنتهي الفترة التجريبية خلال {0} أيام.</text>
+    <text name="CanNotUpgradeSubscriptionSinceTenantHasNoEditionAssigned">لا يمكن ترقية الاشتراك لأن العميل لم يعين نسخة.</text>
+    <text name="PaymentCouldNotCompleted">تعذر إتمام الدفع</text>
+    <text name="TenantEditionIsNotAssigned">لم يتم تعيين نسخة العميل</text>
+    <text name="FreeEditionsCannotHaveTrialVersions">لا يمكن أن يكون للنسخ المجانية فترة تجريبية</text>
+    <text name="Total">المجموع</text>
+    <text name="Extend_Edition_Description">تمديد النسخة {0}</text>
+    <text name="Upgrade_Edition_Description">ترقية الى النسخة {0}</text>
+    <text name="PaymentMightBeExpiredWarning">من المحتمل ان وقت إتمام العملية قد نفذ, الرجاء الإتصال بنا إذا قمت بعملية الدفع.</text>
+    <text name="GoToSubscriptionManagement">انتقل إلى الاشتراك</text>
+    <text name="DemoPayPalAccount">حساب بايبال التجريبي</text>
+    <text name="IsEnabled">مفعّل</text>
+    <text name="IsGoogleAuthenticatorEnabled">تمكين أداة مصادقة غوغل</text>
+    <text name="GoogleAuthenticatorReferrerLink">ألست متأكدا مما تعنيه هذه الشاشة؟ قد تحتاج إلى التحقق من ذلك </text>
+    <text name="ScanQrCodeWithYourMobileApp">مسح رمز الاستجابة السريعة هذا مع تطبيق المحمول</text>
+    <text name="Profile">الملف الشخصي</text>
+    <text name="Enable">تفعيل</text>
+    <text name="GoogleAuthenticatorIsNotEnabled">لم يتم تمكين أداة مصادقة غوغل لحسابك. يجب عليك أولا تمكينه في إعداداتك.</text>
+    <text name="SubscriptionExpiringSoon_Email_Subject">إشعار انتهاء صلاحية اشتراك أبزيرتمبلات الخاص بك</text>
+    <text name="SubscriptionExpiringSoon_Email_Body">سوف تنتهي صلاحية اشتراك أبزيروتيمبلات في {0}.</text>
+    <text name="SubscriptionExpire_Title">تنتهي صلاحية اشتراك أبزيروتيمبلات</text>
+    <text name="SubscriptionExpire_SubTitle">يتم إرسال هذا البريد الإلكتروني إليك لإعلامك بانتهاء صلاحية الاشتراك</text>
+    <text name="SubscriptionAssignedToAnother_Email_Body">انتهت صلاحية اشتراك أبزيروتيمبلات في {1}. تم تعيين النسخة الحالية إلى {0}.</text>
+    <text name="FailedSubscriptionTerminations_Title">فشل إنهاء الاشتراك</text>
+    <text name="FailedSubscriptionTerminations_SubTitle">فشل إنهاء الاشتراك لبعض العملاء</text>
+    <text name="SubscriptionExpiringSoon_Title">أبزيروتيمبلات إشعار انتهاء صلاحية الاشتراك</text>
+    <text name="SubscriptionExpiringSoon_SubTitle">يتم إرسال هذا البريد الإلكتروني إليك لإعلامك بانتهاء صلاحية الاشتراك.</text>
+    <text name="AdminRoleCannotRemoveFromAdminUser">لا يمكن إزالة دور المشرف من مستخدم المشرف</text>
+    <text name="YouCannotRemoveUserRolePermissionsFromAdminRole">لا يمكنك إزالة إذن التعديل للمستخدم / للدور من دور المشرف</text>
+    <text name="YouCannotRemoveUserRolePermissionsFromAdminUser">لا يمكنك إزالة إذن التعديل للمستخدم / للدور من مستخدم مشرف</text>
+    <text name="Notification">إشعار</text>
+    <text name="TotalRecordsCount">المجموع: {0}</text>
+    <text name="SubscriptionInformation">معلومات الاشتراك</text>
+    <text name="PaymentHistory">سجل الدفعات</text>
+    <text name="Gateway">بوابة</text>
+    <text name="Amount">قيمة</text>
+    <text name="Status">حالة</text>
+    <text name="Period">فترة</text>
+    <text name="DayCount">عدد الأيام</text>
+    <text name="LastModificationTime">آخر وقت التعديل</text>
+    <text name="PaymentId">معرف الدفع</text>
+    <text name="SubscriptionPaymentGatewayType_Paypal">باي بال</text>
+    <text name="SubscriptionPaymentStatus_Completed">منجز</text>
+    <text name="SubscriptionPaymentStatus_Processing">معالجة</text>
+    <text name="SubscriptionPaymentStatus_Failed">فشل</text>
+    <text name="PaymentPeriodType_Annual">سنوي</text>
+    <text name="PaymentPeriodType_Monthly">شهري</text>
+    <text name="ProcessTime">وقت المعالجة</text>
+    <text name="SmsVerificationEnabled">تم تمكين التحقق من رقم الهاتف (عبر الرسائل القصيرة )</text>
+    <text name="SmsVerificationMessage">رمز التحقق: {0}</text>
+    <text name="Verify">التحقق</text>
+    <text name="YourCode">رمزك</text>
+    <text name="VerifyYourCode">تحقق من الرمز</text>
+    <text name="YourPhoneNumberIsVerified">تم التحقق من رقم هاتفك</text>
+    <text name="YourPhoneNumberIsNotVerified">لم يتم التحقق من رقم هاتفك</text>
+    <text name="WrongSmsVerificationCode">رمز التحقق غير صحيح!</text>
+    <text name="SelectUsers">حدد المستخدمين</text>
+    <text name="OrganizationUnits" value="الوحدات التنظيمية" />
+    <text name="YouCanManageUsersOrganizationUnitsFromOrganizationUnitsPage">يمكنك إدارة وحدات التنظيم من صفحة الوحدات التنظيمية.</text>
+    <text name="DemoUiComponents">مكونات واجهة المستخدم التجريبية</text>
+    <text name="DateAndTimePickers">إختيار التاريخ و الوقت</text>
+    <text name="FileUpload">تحميل الملف</text>
+    <text name="PostedValue">القيمة المنشورة</text>
+    <text name="SelectDate">حدد تاريخ</text>
+    <text name="SelectFile">حدد الملف</text>
+    <text name="UploadedFile">الملف المحمَل</text>
+    <text name="PostedData">البيانات المنشورة</text>
+    <text name="Remove">إزالة</text>
+    <text name="OrganizationUnitNotFoundForThisUser">لا توجد وحدة تنظيمية لهذا المستخدم.</text>
+    <text name="DemoUiComponents_Info">
+      This page shows a few useful UI components those can be used in your application.
+      Components in this page are implemented as full stack (includes the server side).
+    </text>
+    <text name="DemoUiComponents_Info_Metronic_Link_Text">Check Metronic theme for more UI components</text>
+    <text name="Image">صورة</text>
+    <text name="File">ملف</text>
+    <text name="Link">رابط</text>
+    <text name="Billing">فواتير</text>
+    <text name="LegalName">الإسم القانوني</text>
+    <text name="Address">عنوان</text>
+    <text name="Tax/VatNo">ضريبة / رقم ضريبة القيمة المضافة </text>
+    <text name="Invoice">فاتورة</text>
+    <text name="TotalAmount">المبلغ الإجمالي</text>
+    <text name="Print">طباعة</text>
+    <text name="ShowInvoice">عرض الفاتورة</text>
+    <text name="InvoiceInformation">معلومات الفاتورة</text>
+    <text name="InvoiceNo">رقم الفاتورة</text>
+    <text name="Date">التاريخ</text>
+    <text name="ThisInvoiceIsNotYours">هذه الفاتورة ليست لك!</text>
+  </texts>
+</localizationDictionary>

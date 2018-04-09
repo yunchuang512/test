@@ -1,0 +1,834 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="zh-SG">
+  <texts>
+    <!--new Feedback-->
+    <text name="FunctionType" value="功能类别" />
+    <text name="ProblemType" value="问题类型" />
+    <text name="ProblemDescription" value="问题描述" />
+    <text name="Solver" value="解决人" />
+    <text name="Manage" value="管理" />
+    <text name="Create" value="新增" />
+    <!--new Feedback end-->
+    
+    <!--User activities query - start-->
+    <text name="UserActivitiesQuery" value="用户活动查询" />
+    <!--User activities query - end-->
+
+    <!--Reward record start-->
+    <text name="RewardRecords" value="奖励记录"/>
+    <text name="UnSelected" value="未选"/>
+    <text name="Selected" value="选定"/>
+    <!--Reward record end-->
+
+
+    <!--Social accounts management -start-->
+    <text name="SocialAccountsUnlinkTips" value="确定要解绑 {0} 吗?" />
+    <text name="UnlinkSuccessfully" value="解绑成功 !" />
+    <!--Social accounts management -start-->
+
+    <!--Telegram Group Reply-start-->
+    <text name="TelegramReplyAtGroup" value="被认可的群内表现" />
+    <text name="TelegramReplyInGroupShortCut" value="进群聊天" />
+    <!--Telegram Group Reply-end-->
+
+    <!--Reward History-start-->
+    <text name="RewardType" value="奖励类型" />
+    <text name="RewardHistoryUserReward" value="用户奖励" />
+    <text name="RewardHistoryCreationTime" value="时间" />
+    <text name="AllReward" value="所有奖励" />
+    <!--Reward History-end-->
+
+    <!--modify invite link-->
+    <text name="InviteLink" value="邀请链接"/>
+    <text name="CopyInviteLinkSuccess" value="邀请链接复制成功！" />
+    <!--modify invite link end-->
+    
+    <!--Feedback-->
+    <text name="Feedback" value="反馈" />
+    <text name="FeedbackThanks" value="感谢您的反馈!" />
+    <text name="FeedbackEmail" value="邮箱"/>
+    <!--Feedback end-->
+    
+    <!--Email Resend start-->
+    <text name="Resend" value="重新发送" />
+    <!--Email Resend end-->
+
+
+    <!--Withdrawal Email Confirmation-start-->
+    <text name="EmailWithDrawalConfirm_eth" value="您的以太坊地址为" />
+    <text name="EmailWithDrawalConfirm_amount" value="，您的提币金额为" />
+    <text name="EmailWithDrawalConfirm_Subject" value="Candy System提币确认邮件" />
+    <text name="EmailWithDrawalConfirm_Title" value="确认提币" />
+    <text name="EmailWithDrawalConfirm_ClickTheLinkBelowToVerifyYourEmail" value="请点击下方链接确认提币:" />
+    <text name="WithdrawalTokenExpiredOrWrongHint" value="链接已过期， 请重新提现！ " />
+    <!--Withdrawal Email Confirmation-end-->
+
+    <!--Withdrawal Records Administration  And User Withdrawal Records-start-->
+    <text name="WithdrawalRecords" value="提现记录" />
+    <text name="WithdrawalRecordsHeaderInfo" value="更改提现记录状态" />
+    <text name="CompleteWithdrawal" value="提现成功" />
+    <text name="UndoWithdrawal" value="处理中" />
+    <text name="WithdrawalRecordUserEmailAddress" value="用户邮箱" />
+    <text name="WithdrawalRecordBalance" value="提现额度" />
+    <text name="WithdrawalRecordEthAddress" value="提现地址" />
+    <text name="WithdrawalRecordStatus" value="提现状态" />
+    <text name="WithdrawalComplete" value="成功" />
+    <text name="WithdrawalPending" value="处理中" />
+    <text name="WithdrawalNoSet" value="已确认" />
+    <text name="WithdrawalFailed" value="失败" />
+    <text name="WithdrawalRecordCreationTime" value="创建时间" />
+    <text name="WithdrawalRecordUpdateStatusWarningToPendingMessage" value="标记提现记录为处理中状态" />
+    <text name="WithdrawalRecordUpdateStatusWarningToSucceedMessage" value="标记提现记录为完成状态" />
+    <text name="WithdrawalCanceled" value="已撤销" />
+    <text name="CancelWithdrawalMessage" value="撤销提现，金额将会加到用户账户中" />
+    <text name="WithdrawalRecordUpdateStatusWarningToNoSetMessage" value="标记提现记录为初始状态" />
+    <text name="CancelWithdrawal" value="撤销" />
+    <text name="InitWithdrawal" value="初始化" />
+    <text name="ProcessWithdrawal" value="处理" />
+    <text name="WithdrawalRecordNotExist" value="提现记录 {0} 不存在 !" />
+    <text name="WithdrawalRecordStatusIsNotNoSet" value="提现记录 {0} 的状态不是初始化状态 {0} !" />
+    <!--Withdrawal Records Administration  And User Withdrawal Records-end-->
+
+    <!--Telegram Group Administration-start-->
+    <text name="TelegramGroupDeleteWarningMessage" value="将要删除Id为{0}的群" />
+    <text name="TelegramGroups" value="Telegram群" />
+    <text name="TelegramGroupsHeaderInfo" value="Telegram群管理" />
+    <text name="CreateNewTelegramGroup" value="创建新的Telegram群" />
+    <text name="TelegramGroupId" value="Telegram群Id" />
+    <text name="TelegramGroupTitle" value="Telegram群的Title" />
+    <text name="TelegramGroupLanguage" value="Telegram群的语言" />
+    <text name="TelegramGroupUrl" value="Telegram群的链接" />
+    <text name="TelegramGroupRank" value="Telegram群的排名" />
+    <text name="EditTelegramGroup" value="编辑Telegram群信息" />
+    <text name="TelegramHistoryGroups" value="Bot进群历史记录" />
+    <text name="TelegramGroupsInviter" value="Bot进群邀请人" />
+    <!--Telegram Group Administration-end-->
+
+    <!--短信验证-开始-->
+    <text name="PhoneNumberIsVerified" value="已验证" />
+    <text name="ChangePhoneNumber" value="更换手机号" />
+    <text name="VerifyPhoneNumber" value="验证手机号" />
+    <text name="UserNotBindMobilePhone" value="当前用户还未绑定手机号!" />
+    <text name="MobileVerificationCodeIsExpired" value="验证码已过期！" />
+    <text name="MobileVerificationCodeNotMatch" value="验证码错误！" />
+    <text name="InvalidPhoneNumber" value="手机号不匹配！" />
+    <!--短信验证-结束-->
+
+    <!--ELF提现-开始-->
+    <text name="InterestRule1" value="在获得奖励30天后，可以选择提现或者获得利息；"  />
+    <text name="InterestRule2" value="每24小时内，系统送出一定数额的Token作为利息(具体数额见顶部)；" />
+    <text name="InterestRule3" value="一旦选择提现，提现部分将不再获得利息；" />
+    <text name="InterestRule4" value="每天获得利息 = 个人可用Token/ 系统总可用Token * 相同时间段利息奖励总数；" />
+    <text name="InterestRule5" value="如发现有任何的作弊行为，相关账号会被注销，奖励清零；" />
+    <text name="InterestRule6" value="终解释权归官方所有。" />
+    <text name="InterestReward" value="利息奖励" />
+    <text name="AvailableReward" value="已得奖励" />
+    <text name="ExpectedInterest" value="期望利息" />
+    <text name="InterestHistory" value="历史利息" />
+    <text name="RewardRank" value="奖励排名" />
+    <text name="WithdrawDepositTips1">最小提现金额为 1 Token</text>
+    <text name="WithdrawDepositTips2">提现申请将在 5 个工作日内处理</text>
+    <text name="WithdrawDepositTips3">在获得奖励30天后，可以选择提现或者获得利息</text>
+    <text name="WithdrawDepositTips4">一旦选择提现，提现部分将不再获得利息</text>
+    <text name="ELFWithdrawDeposit" value="提现" />
+    <text name="WithdrawDepositConfirmTips" value="提现的数额将来将不会收到利息！确认提现地址是否正确 {0}！" />
+    <text name="WithdrawDeposit" value="提现" />
+    <text name="AssetAmount" value="资产可用余额" />
+    <text name="WithdrawDepositSuccessTips" value="申请提现成功" />
+    <text name="WithdrawDepositFailTips" value="申请提现失败" />
+    <text name="WithdrawalAddressCanNotBeNull" value="钱包地址不能为空!" />
+    <text name="FrozenAssetAmount" value="即将释放" />
+    <!--ELF提现-结束-->
+
+    <!--Reward Amount-start-->
+    <text name="RewardDeclaration" value="今天奖励额度" />
+    <text name="AssignmentRewardAmount1" value="今天任务奖励总额: " />
+    <text name="AssignmentRewardAmount2" value="{0}Token" />
+    <text name="InfluenceRewardAmount1" value="今天影响力奖励总额: " />
+    <text name="InfluenceRewardAmount2" value="{0}Token" />
+    <text name="InterestRewardAmount1" value="今天利息奖励总额: " />
+    <text name="InterestRewardAmount2" value="{0}Token" />
+    <!--Reward Amount-end-->
+
+    <!-- Customize notification-start-->
+    <text name="NewAnnouncementNotificationDefinition" value="系统通知公告" />
+    <text name="NotificationManagement" value="通知管理" />
+    <text name="CreateNotification" value="发布通知" />
+    <text name="NotificationMessage" value="通知内容" />
+    <text name="NotificationSeverity" value="通知级别" />
+    <text name="Notification" value="通知" />
+    <text name="NotificationAddressee" value="通知接收人" />
+    <!-- Customize notification-end-->
+    
+    <text name="Invitation_Code_Hint" value="邀请码只能包含数字和字母" />
+    <text name="NetworkDetail" value="影响力详情" />
+    <text name="ChangePassword" value="重置密码" />
+    <text name="PasswordsMatch_Hint" value="密码不匹配" />
+    <text name="CaptchaCanNotBeEmpty" value="验证码不能为空." />
+    <text name="Require_Hint" value="{0}为必填字段 " />
+    <text name="VersionDeclaration" value="仅作测试使用，无实际奖励!" />
+
+
+    <text name="Email_Format_Hint" value="请输入正确的Email" />
+    <text name="CreditEarned" value="已得积分" />
+    <text name="TotalCreditEarned" value="系统总积分" />
+    <text name="CreditRank" value="积分排名" />
+    <text name="ExpectedReward" value="期望奖励" />
+    <text name="InvitationCode" value="邀请码" />
+    <text name="InvitationLink" value="邀请链接" />
+    <text name="CopyToClipboard" value="复制到剪贴板" />
+    <text name="SecretCodeForTelegramRobot" value="绑定Telegram的密令" />
+    <text name="SocialLink" value="社交账号关联" />
+    <text name="IncomeSummary" value="收入概况" />
+    <text name="BindTelegramRobotMessage" value="是否绑定Telegram机器人？" />
+    <text name="BindTelegramRobotTip" value="点击下面的按钮绑定Telegram机器人，绑定后，在ælf的Telegram官方群中积极发言即可获取Token奖励！" />
+    <text name="BindTelegramRobot" value="绑定Telegram机器人" />
+    <text name="BindTelegramRobotResultSuccess" value="成功绑定Telegram机器人！" />
+    <text name="BindTelegramRobotResultFailure" value="绑定Telegram机器人失败，请重试！" />
+    <text name="Specification" value="规则说明" />
+    <text name="CreditDetail" value="积分详情" />
+
+    <text name="ActivityRule1" value="每24小时内，系统送出一定数额的Token作为任务奖励(具体数额见顶部)；" />
+    <text name="ActivityRule2" value="参与方通过完成下列任务获得积分，然后在24小时倒计时结束时，根据积分计算争取到的奖励；" />
+    <text name="ActivityRule3" value="个人所得奖励 = 个人所得积分 / 全网所得积分 * 相同时间段任务奖励总数；" />
+    <text name="ActivityRule4" value="所获得的奖励的解冻周期为一个月，解冻后可提现；" />
+    <text name="ActivityRule5" value="如发现有任何的作弊行为，相关账号会被注销，奖励清零；" />
+    <text name="ActivityRule6" value="终解释权归官方所有。" />
+    <text name="ActivityRuleNote" value="(注意：请务必先绑定Twitter，Telegram和GitHub账号，然后才能被统计到积分！)" />
+    <text name="ActivityRule7" value="社交平台个人粉丝量大小，会决定活动参与获得积分大小，如Twitter粉丝1~100，积分X2，101~1000积分X3，1001~10000积分X5，>10001积分X5；" />
+    <text name="Rule." value="规则 {0}:" />
+    <text name="Rules" value="规则" />
+    <text name="Multiplier" value="奖励倍数" />
+
+    <text name="ETHAddress" value="ETH 地址" />
+    <text name="WalletAddress" value="钱包地址" />
+    <text name="ETHMessage" value="" />
+
+    <!--倒计时-开始-->
+    <text name="CountDown" value="活动结束倒计时" />
+    <text name="Weeks" value="星期" />
+    <text name="Days" value="天" />
+    <text name="Hours" value="小时" />
+    <text name="Minutes" value="分" />
+    <text name="Seconds" value="秒" />
+    <text name="MilliSeconds" value="毫秒" />
+    <!--倒计时-结束-->
+
+
+    <text name="SocialBinding" value="更多账号" />
+    <text name="HierarchicalReward" value="影响力奖励" />
+
+    <!--层级奖励开始-->
+    <text name="HierarchicalRewardRule1" value="你直接邀请和间接邀请的参与者，构成你的影响力范围；(间接邀请指参与者的邀请人来自于你的邀请)" />
+    <text name="HierarchicalRewardRule2" value="每24小时内，系统送出一定数额的Token作为影响力奖励(具体数额见顶部)；" />
+    <text name="HierarchicalRewardRule3" value="当你的影响力范围成员获得任务积分时，根据邀请维度，你获得的影响力积分(具体计算方式见下表), 然后在24小时倒计时结束时，根据积分计算争取到的奖励；" />
+    <text name="HierarchicalRewardRule4" value="个人影响力积分 = 每个维度影响力积分的综合，具体细节见下表；" />
+    <text name="HierarchicalRewardRule5" value="每个时间窗口内，个人所得奖励 = 个人所得影响力积分 / 全网所得影响力积分 *相同时间段影响力奖励总数；" />
+    <text name="HierarchicalRewardRule6" value="所获得的奖励的解冻周期为一个月，解冻后可提现；" />
+    <text name="HierarchicalRewardRule7" value="如发现有任何的作弊行为，相关账号会被注销，奖励清零；" />
+    <text name="HierarchicalRewardRule8" value="终解释权归官方所有。" />
+    <text name="CreditHierarchy" value="积分" />
+    <text name="Subordinate" value="扩展人数" />
+    <text name="HierarchicalCredit" value="影响力积分" />
+    <text name="RewardCoefficient" value="奖励系数" />
+    <text name="RewardCredit" value="奖励积分" />
+    <text name="Degree1" value="一维" />
+    <text name="Degree2" value="二维" />
+    <text name="Degree3" value="三维" />
+    <text name="Degree4" value="四维" />
+    <text name="Degree5" value="五维" />
+    <text name="Degree6" value="六维" />
+    <text name="Degree7" value="七维" />
+    <text name="Degree8" value="八维" />
+    <text name="HierarchicalReward_PreviousPoints" value="上次积分" />
+    <text name="HierarchicalReward_PreviousRank" value="上次排名" />
+    <text name="HierarchicalReward_PreviousReward" value="上次奖励" />
+    <text name="HierarchicalReward_RewardHistory" value="历史奖励" />
+    <!--层级奖励结束-->
+
+    <!--用户活动开始-->
+    <text name="RewardHistory" value="历史奖励" />
+    <text name="ActivityReward" value="活动奖励" />
+    <text name="GoToGroup" value="邀请好友进群" />
+    <text name="Bound" value="已绑定" />
+    <text name="BoundEmail" value="已验证" />
+    <text name="OAuthBound" value="已绑定" />
+    <text name="UnboundTips" value="未绑定 {0}, 点击导航栏上的 {0} 按钮进行绑定" />
+    <text name="BoundPhone" value="未绑定手机，点击绑定手机" />
+    <text name="CopyInvitationLink" value="复制邀请链接" />
+    <text name="ActivityDescription" value="任务描述" />
+    <text name="CreditsEveryTime" value="单次积分" />
+    <text name="UpperLimitOfTimes" value="次数上限" />
+    <text name="ObtainedCredits" value="已获积分" />
+    <text name="ShortcutActionsAndStatus" value="快捷操作及状态" />
+    <text name="Activities" value="任务" />
+    <text name="CreatingNewActivityPackage" value="创建新的任务包" />
+    <text name="EditingActivityPackage" value="编辑任务包" />
+    <text name="DeletingActivityPackage" value="删除任务包" />
+    <text name="Activity Packages List" value="任务包列表" />
+    <text name="Activities Count" value="任务数" />
+    <text name="All Available Activity Packages" value="所有可做的任务包" />
+    <text name="CreatingNewActivity" value="创建新的任务" />
+    <text name="EditingActivity" value="编辑任务" />
+    <text name="DeletingActivity" value="删除任务" />
+    <text name="ActivityPackages" value="任务包" />
+    <text name="Activity Name" value="任务名称" />
+    <text name="Completed Times" value="完成次数" />
+    <text name="Got Weight" value="已获积分" />
+    <text name="Weight Limit" value="积分上限" />
+    <text name="Activity Type" value="任务类型" />
+    <text name="Activity Weight" value="任务权重" />
+    <text name="Got Asset Amount" value="已获资产" />
+    <text name="LinkTel" value="绑定手机" />
+    <text name="LinkEmail" value="绑定Email" />
+    <text name="OAuthGitHub" value="绑定GitHub" />
+    <text name="OAuthFacebook" value="绑定Facebook" />
+    <text name="OAuthTwitter" value="绑定Twitter" />
+    <text name="FavoriteTweet" value="点赞推文" />
+    <text name="ReplyTweet" value="回复推文" />
+    <text name="SendOrShareTweet" value="转发分享推文" />
+    <text name="TelegramInviteNewMember" value="邀请好友进入telegram群" />
+    <text name="UnboundTelegramTips" value="未绑定 Telegram, 点击绑定" />
+    <text name="Inviter" value="邀请注册" />
+    <text name="TelegramChatAtGroup" value="绑定Telegram群" />
+    <text name="TelegramAddBot" value="绑定Telegram" />
+    <text name="Preparing" value="正在准备" />
+    <text name="Running" value="正在执行" />
+    <text name="Stopped" value="已停止" />
+    <text name="Released" value="已发放" />
+    <text name="Amount" value="数量" />
+    <text name="Status" value="状态" />
+    <text name="Shoutcut And Status" value="快捷操作及状态" />
+    <text name="Daily" value="每日" />
+    <text name="Unlimit" value="无上限" />
+    <text name="Completed" value="已完成" />
+    <text name="UnsportStatus{0}" value="不支持的状态 {0}" />
+    <text name="UnsportType{0}" value="不支持的类型 {0}" />
+    <text name="ClickToRedirect{0}" value="点击跳转 {0}" />
+    <text name="SendTweet" value="发推并@官推" />
+    <text name="ShareTweet" value="分享推文" />
+    <text name="FollowTwitter" value="关注官推" />
+    <text name="unboundTelegramTips1" value="请先通过官方Telegram bot绑定官方账号" />
+    <text name="unboundTelegramTips2" value="@aelfbot" />
+    <text name="unboundTelegramTips3" value="并输入 /start" />
+    <text name="SubscribeReddit" value="订阅" />
+    <text name="UpvoteReddit" value="投票" />
+    <text name="TelegramChannel" value="关注官方公告" />
+    <!--用户活动结束-->
+    <text name="HomePage" value="主页" />
+    <text name="AboutUs" value="关于我们" />
+    <text name="Administration" value="管理" />
+    <text name="Roles" value="角色" />
+    <text name="Users" value="用户" />
+    <text name="User" value="用户" />
+    <text name="InvalidFormMessage" value="部分输入信息不符合要求，请检查并改正." />
+    <text name="InvalidUserNameOrPassword" value="用户名或密码无效" />
+    <text name="ThereIsNoTenantDefinedWithName{0}" value="租户 {0}不存在" />
+    <text name="TenantIsNotActive" value="租户 {0} 未激活." />
+    <text name="UserIsNotActiveAndCanNotLogin" value="用户 {0} 未激活，不能登录." />
+    <text name="PleaseEnterLoginInformation" value="请输入登录信息" />
+    <text name="TenancyName" value="租户名称" />
+    <text name="UserEmail" value="邮箱地址" />
+    <text name="UserNameOrEmail" value="用户名/邮箱地址" />
+    <text name="UserNameOrEmailOrPhoneNumber" value="用户名/邮箱地址/手机号" />
+    <text name="Password" value="密码" />
+    <text name="RememberMe" value="记住我" />
+    <text name="SignIn" value="登录" />
+    <text name="SignUp" value="注册" />
+    <text name="LogIn" value="登录" />
+    <text name="ForgotPassword" value="重置密码" />
+    <text name="DontYouHaveAnAccount" value="还不是用户?" />
+    <text name="CreateAnAccount" value="注册" />
+    <text name="Pages" value="页面" />
+    <text name="RoleName" value="角色名称" />
+    <text name="EditRole" value="修改角色" />
+    <text name="CreateNewRole" value="添加角色" />
+    <text name="RoleProperties" value="角色属性" />
+    <text name="Permissions" value="权限" />
+    <text name="Save" value="保存" />
+    <text name="Cancel" value="取消" />
+    <text name="RolesHeaderInfo" value="使用角色进行权限分组." />
+    <text name="Static" value="系统" />
+    <text name="Actions" value="操作" />
+    <text name="Delete" value="删除" />
+    <text name="SavedSuccessfully" value="保存成功." />
+    <text name="AreYouSure" value="您确定吗?" />
+    <text name="YesDelete" value="是, 执行删除!" />
+    <text name="DeletingUser" value="删除用户" />
+    <text name="UsersHeaderInfo" value="管理用户及权限." />
+    <text name="CreateNewUser" value="添加用户" />
+    <text name="UserName" value="用户名" />
+    <text name="Name" value="名字" />
+    <text name="Surname" value="姓氏" />
+    <text name="EmailAddress" value="邮箱地址" />
+    <text name="LastLoginTime" value="上次登录时间" />
+    <text name="EditUser" value="修改用户" />
+    <text name="UserInformations" value="用户信息" />
+    <text name="PasswordRepeat" value="密码 (核对)" />
+    <text name="SuccessfullyDeleted" value="删除成功." />
+    <text name="RoleDeleteWarningMessage" value="角色 {0} 将被删除，拥有此角色的用户将取消此角色." />
+    <text name="UserDeleteWarningMessage" value="用户 {0} 将被删除." />
+    <text name="Active" value="激活" />
+    <text name="EmailConfirm" value="邮箱地址验认" />
+    <text name="Yes" value="是" />
+    <text name="No" value="否" />
+    <text name="MySettings" value="我" />
+    <text name="Logout" value="注销" />
+    <text name="Reset" value="重置" />
+    <text name="ResetPermissionsTooltip" value="重置用户权限后，用户仅拥有所属角色包含的权限，为用户直接指定的权限将取消." />
+    <text name="ResetSuccessfully" value="重置成功" />
+    <text name="Tenants" value="租户" />
+    <text name="TenantsHeaderInfo" value="管理租户." />
+    <text name="CreateNewTenant" value="添加租户" />
+    <text name="TenancyCodeName" value="租户编码" />
+    <text name="TenantName" value="租户名称" />
+    <text name="TenantDeleteWarningMessage" value="租户 {0} 将被删除." />
+    <text name="AdminEmailAddress" value="管理员邮箱" />
+    <text name="AdminPassword" value="管理员密码" />
+    <text name="AdminPasswordRepeat" value="管理员密码(核对)" />
+    <text name="EditTenant" value="修改租户" />
+    <text name="ChangingPermissions" value="更改权限" />
+    <text name="EditingUser" value="修改用户" />
+    <text name="CreatingNewUser" value="添加用户" />
+    <text name="Edit" value="修改" />
+    <text name="EditingTenant" value="修改租户" />
+    <text name="CreatingNewTenant" value="添加租户" />
+    <text name="DeletingTenant" value="删除租户" />
+    <text name="EditingRole" value="修改角色" />
+    <text name="CreatingNewRole" value="添加角色" />
+    <text name="DeletingRole" value="删除角色" />
+    <text name="CreationTime" value="创建时间" />
+    <text name="SearchWithThreeDot" value="搜索..." />
+    <text name="ResetSpecialPermissions" value="重置直接指定权限" />
+    <text name="SavingWithThreeDot" value="保存中..." />
+    <text name="Settings" value="设置" />
+    <text name="SaveAll" value="保存全部" />
+    <text name="SettingsHeaderInfo" value="显示和修改程序设置." />
+    <text name="EmailSmtp" value="邮箱 (SMTP)" />
+    <text name="DefaultFromAddress" value="默认发送邮箱地址" />
+    <text name="DefaultFromDisplayName" value="默认发送人名字" />
+    <text name="SmtpHost" value="SMTP服务器" />
+    <text name="SmtpPort" value="SMTP端口" />
+    <text name="UseDefaultCredentials" value="默认身份验证" />
+    <text name="DomainName" value="域名" />
+    <text name="UseSsl" value="使用SSL" />
+    <text name="ThisWebSiteRootAddress" value="网站http根路径" />
+    <text name="ThisWebSiteRootAddress_Hint" value="示例： http://mydomain.com/ ，用于外部链接本系统，如密码重置链接" />
+    <text name="General" value="基本信息" />
+    <text name="SendPasswordResetLink_Information" value="在几十秒内向您发送一封密码重置邮件，如果在3分钟内还没收到这封邮件，请重试." />
+    <text name="Send" value="发送" />
+    <text name="PasswordReset" value="重置密码" />
+    <text name="InvalidUserNameOrEmailAddress" value="用户名或Email地址无效" />
+    <text name="PasswordResetEmail_Subject" value="重置密码" />
+    <text name="PasswordResetEmail_Title" value="重置密码" />
+    <text name="PasswordResetEmail_SubTitle" value="请点击下面链接来重置密码" />
+    <text name="PasswordResetEmail_ClickTheLinkBelowToResetYourPassword" value="请点击以下链接重置密码:" />
+    <text name="EmailActivation_Subject" value="激活您的用户账号" />
+    <text name="EmailActivation_Title" value="欢迎！" />
+    <text name="EmailActivation_SubTitle" value="请点击下方的链接完成邮箱验证：" />
+    <text name="EmailActivation_ClickTheLinkBelowToVerifyYourEmail" value="请点击以下链接确认您的邮箱地址,并激活您的用户账号:" />
+    <text name="InvalidEmailAddress" value="邮箱地址无效" />
+    <text name="InvalidPasswordResetCode" value="密码重置已失效" />
+    <text name="InvalidPasswordResetCode_Detail" value="请您务必通过点击邮件中的重置链接进入本页面.如果已经这样做了,还存在问题,请重试一遍密码重置操作!" />
+    <text name="PleaseEnterYourNewPassword" value="请输入新密码." />
+    <text name="UserEmailIsNotConfirmedAndCanNotLogin" value="您的邮箱未通过验证.请检查您的邮箱地址是否正确,查收邮件并点击邮件内容中的验证链接进行验证和激活.如果没有收到邮件,请点击[邮箱验证],系统会重新发送一封邮件." />
+    <text name="LoginFailed" value="登录失败!" />
+    <text name="InvalidEmailConfirmationCode" value="邮箱验证已失效" />
+    <text name="InvalidEmailConfirmationCode_Detail" value="请您务必通过点击邮件中的重置链接进入本页面.如果已经这样做了,还存在问题,请重试一遍邮箱验证操作!" />
+    <text name="InvalidPhoneConfirmationCode" value="手机验证已失效" />
+    <text name="InvalidPhoneConfirmationCode_Detail" value="请重新获取手机验证码!" />
+    <text name="YourEmailIsConfirmedMessage" value="您的邮箱已通过验证." />
+    <text name="YourPhoneNumberConfirmationCodeIs" value="您的手机验证码是{0}." />
+    <text name="ShouldChangePasswordOnNextLogin" value="下次登录需要修改密码." />
+    <text name="SetRandomPassword" value="使用随机密码." />
+    <text name="EmailActivation" value="发送激活邮件" />
+    <text name="SendEmailActivationLink_Information" value="在几十秒内向您发送一封邮件,用于激活您的用户账号，请接收并点击邮件内容中的激活链接。如果在2分钟内还没收到这封邮件，请重试." />
+    <text name="SendActivationEmail" value="发送激活邮件." />
+    <text name="CurrentPassword" value="当前密码" />
+    <text name="NewPassword" value="新密码" />
+    <text name="NewPasswordRepeat" value="新密码 (核对)" />
+    <text name="YourPasswordHasChangedSuccessfully" value="密码修改成功." />
+    <text name="SelfUserRegistrationIsDisabledMessage" value="您不能注册!" />
+    <text name="SelfUserRegistrationIsDisabledMessage_Detail" value="注册功能被禁用，请联系您的系统管理员为您建立用户账号." />
+    <text name="SuccessfullyRegistered" value="注册成功, 您的邮箱会收到激活邮件，请点击邮件中的链接进行激活!" />
+    <text name="ConfirmationMailSentPleaseClickLinkInTheEmail" value="已往您的{0}邮箱发送了一封邮件，请点击邮件中的链接，验证您的邮箱地址." />
+    <text name="YourAccountIsWaitingToBeActivatedByAdmin" value="您的用户账号尚未激活，待系统管理员激活后方能登录使用系统." />
+    <text name="NameSurname" value="姓名" />
+    <text name="UserManagement" value="用户管理" />
+    <text name="AllowUsersToRegisterThemselves" value="允许用户注册." />
+    <text name="AllowUsersToRegisterThemselves_Hint" value="如果此项被禁用，只能由管理员通过用户管理页面添加用户." />
+    <text name="NewRegisteredUsersIsActiveByDefault" value="注册用户默认激活." />
+    <text name="NewRegisteredUsersIsActiveByDefault_Hint" value="如果此项被禁用，新用户需要通过邮件激活后才能登录." />
+    <text name="Default" value="默认" />
+    <text name="DefaultRole_Description" value="新用户将默认拥有此角色." />
+    <text name="StaticRole_Tooltip" value="不能删除系统角色." />
+    <text name="EmailConfirmationRequiredForLogin" value="必须验证邮箱地址后才能登录." />
+    <text name="{0}UserCannotBeDeleted" value="{不能删除0}用户." />
+    <text name="TenantNameCanNotBeEmpty" value="租户名不能为空" />
+    <text name="ExportToExcel" value="导出到Excel" />
+    <text name="ChangeProfilePicture" value="修改头像" />
+    <text name="TenantName_Regex_Description" value="租户名称必须由2个以上字母、数字、-、_组成,以字母开头" />
+    <text name="ProfilePicture_Change_Info" value="只能选择1mb内的JPG/JPEG/PNG图片." />
+    <text name="ProfilePicture_Change_Error" value="头像修改错误." />
+    <text name="ProfilePicture_Warn_SizeLimit" value="只能选择1mb内的JPG/JPEG图片，请重新选择头像文件." />
+    <text name="ProfilePicture_Warn_FileType" value="只能选择1mb内的JPG/JPEG图片，请重新选择头像文件." />
+    <text name="Dashboard" value="工作台" />
+    <text name="DashboardHeaderInfo" value="分析与报告" />
+    <text name="GoToApplication" value="登录系统" />
+    <text name="TenantInformations" value="租户信息" />
+    <text name="PersonalInformations" value="个人信息" />
+    <text name="AccountSettings" value="账号设置" />
+    <text name="Captha_Hint" value="输入图片中的验证码:" />
+    <text name="Back" value="返回" />
+    <text name="Submit" value="提交" />
+    <text name="Register" value="注册" />
+    <text name="IncorrectCaptchaAnswer" value="验证码无效." />
+    <text name="FormIsNotValidMessage" value="部分输入信息不符合要求，请检查并改正.." />
+    <text name="CanNotChangeAdminUserName" value="管理用户，不能修改用户名." />
+    <text name="Error" value="错误!" />
+    <text name="OopsYouAreLost" value="噢! 失踪了." />
+    <text name="WeCanNotFindThePage" value="我们无法提供您想要访问的页面." />
+    <text name="DashboardDemo_Note_Title" value="欢迎使用ASP.NET Zero启动项目!" />
+    <text name="DashboardDemo_Note_Info">
+      在这个演示系统，您可以使用左边的菜单功能，测试和了解以下模块的全部功能：用户管理、角色管理、系统设置。
+      主面板(Dashboard)页面只是用于演示目的，文本和数据没有什么含义(所有数据都是硬编码在浏览器客户端程序；
+      其中的MEMBER ACTIVITY图表，向服务器端请求简单随机数据用于展示，当您点击刷新按钮时，可以看到变化。)
+    </text>
+    <text name="WelcomePage_Title" value="欢迎!" />
+    <text name="WelcomePage_Info" value="欢迎使用本应用，您可以从左边的菜单启动要使用的功能。如果您没有看到任何菜单，可能是因为您没有获得任何一项授权，您可以联系您的系统管理员获得授权. " />
+    <text name="RequestedFileDoesNotExists" value="请求的文件不存在!" />
+    <text name="MailSent" value="邮件已发送" />
+    <text name="PasswordResetMailSentMessage" value="已向您的邮箱发送了一封密码重置邮件，请查收." />
+    <text name="ActivationMailSentMessage" value="已向您的邮箱发送了一封邮箱地址验证邮件，请查收." />
+    <text name="UseCaptchaOnRegistration" value="用户注册时使用图片验证码(captcha)." />
+    <text name="FormBasedRegistration" value="基于表单身份验证" />
+    <text name="LdapSettings" value="LDAP设置" />
+    <text name="EnableLdapAuthentication" value="启用轻量目录访问协议(LDAP)认证." />
+    <text name="OtherSettings" value="其它设置" />
+    <text name="AuditLogs" value="审计日志" />
+    <text name="Success" value="成功" />
+    <text name="Time" value="时间" />
+    <text name="Service" value="服务" />
+    <text name="Action" value="操作" />
+    <text name="Duration" value="持续时间" />
+    <text name="IpAddress" value="IP地址" />
+    <text name="Client" value="客户端" />
+    <text name="Browser" value="浏览器" />
+    <text name="Xms" value="{0} ms" />
+    <text name="Close" value="关闭" />
+    <text name="Refresh" value="刷新" />
+    <text name="ErrorState" value="错误状态" />
+    <text name="All" value="全部" />
+    <text name="HasError" value="出现错误" />
+    <text name="ShowAdvancedFilters" value="显示高级过滤" />
+    <text name="HideAdvancedFilters" value="隐藏高级过滤" />
+    <text name="AuditLogDetail" value="审计日志详情" />
+    <text name="Parameters" value="参数" />
+    <text name="DateRange" value="日期范围" />
+    <text name="ActionInformations" value="操作信息" />
+    <text name="Today" value="今天" />
+    <text name="Yesterday" value="昨天" />
+    <text name="Last7Days" value="最近7天" />
+    <text name="Last30Days" value="最近30天" />
+    <text name="ThisMonth" value="这个月" />
+    <text name="LastMonth" value="上个月" />
+    <text name="TenantSelection" value="选择租户" />
+    <text name="TenantSelection_Detail" value="请选择一个租户" />
+    <text name="LoginWith" value="登录" />
+    <text name="PasswordChangeDontRememberMessage" value="忘记密码？ {0}." />
+    <text name="ClickHere" value="点击这里" />
+    <text name="Apply" value="应用" />
+    <text name="CustomRange" value="自定义范围" />
+    <text name="DashboardNoteForMpaVersion">
+      <![CDATA[
+      查看本示例:基于<strong>多页面应用</strong>版本，基于ASP.NET MVC和<strong>jQuery</strong>.
+      ]]>
+    </text>
+    <text name="DashboardNoteForSpaVersion">
+      <![CDATA[
+      查看本示例:基于<strong>单页面应用</strong>版本，基于ASP.NET MVC和<strong>AngularJs</strong>.
+      ]]>
+    </text>
+    <text name="SeeDemo" value="查看示例" />
+    <text name="Edition" value="版本" />
+    <text name="Editions" value="版本列表" />
+    <text name="EditionsHeaderInfo" value="管理当前应用的版本和特性参数" />
+    <text name="CreateNewEdition" value="创建新的版本" />
+    <text name="EditEdition" value="编辑版本" />
+    <text name="EditionProperties" value="版本属性列表" />
+    <text name="EditionName" value="版本名称" />
+    <text name="Features" value="特性参数列表" />
+    <text name="EditionDeleteWarningMessage" value="{0}已经分配给租户的版本会被删除." />
+    <text name="CreatingNewEdition" value="创建一个新的版本" />
+    <text name="EditingEdition" value="正在编辑版本" />
+    <text name="DeletingEdition" value="正在删除版本" />
+    <text name="ChangingFeatures" value="正在修改特性参数" />
+    <text name="ResetSpecialFeatures" value="重置特殊的特性参数" />
+    <text name="ResetFeaturesTooltip" value="重置租户指定的特性参数设置并且保存.当前租户只会拥有已注册版本的特性参数." />
+    <text name="NotAssigned" value="没有分配" />
+    <text name="InvalidFeaturesWarning" value="一个或者多个特性参数值无效" />
+    <text name="Languages" value="语言列表" />
+    <text name="LanguagesHeaderInfo" value="管理语言包的文本头信息" />
+    <text name="CreateNewLanguage" value="创建新的语言" />
+    <text name="Code" value="代码" />
+    <text name="CreatingNewLanguage" value="正在创建新的语言" />
+    <text name="EditingLanguage" value="正在编辑语言" />
+    <text name="DeletingLanguages" value="正在删除语言" />
+    <text name="ChangingTexts" value="正在修改文本信息" />
+    <text name="SuccessfullySaved" value="保存成功." />
+    <text name="Language" value="语言" />
+    <text name="Flag" value="标记" />
+    <text name="SetAsDefaultLanguage" value="设置当前语言为默认语言" />
+    <text name="InvlalidLanguageCode" value="无效的语言代码." />
+    <text name="EditLanguage" value="编辑语言" />
+    <text name="ChangeTexts" value="改变文本信息" />
+    <text name="TargetValue" value="目标值" />
+    <text name="BaseValue" value="默认值" />
+    <text name="Key" value="键值" />
+    <text name="SaveAndClose" value="保存 &amp; 关闭" />
+    <text name="SaveAndNext" value="保存 &amp; 文本" />
+    <text name="EditText" value="编辑文本" />
+    <text name="LanguageTexts" value="语言的文本信息" />
+    <text name="LanguageTextsHeaderInfo" value="编辑语言的文本头信息." />
+    <text name="EmptyOnes" value="空值" />
+    <text name="Source" value="选择源" />
+    <text name="BaseLanguage" value="默认语言" />
+    <text name="TargetLanguage" value="目标语言" />
+    <text name="Previous" value="向前" />
+    <text name="LanguageDeleteWarningMessage" value="确定要删除当前语言包吗 {0}?" />
+    <text name="CanNotEditOrDeleteDefaultLanguages" value="不能删除默认语言.只能删除或者修改自己增加的语言. 但可以改变所有语言的文本信息." />
+    <text name="LookingForMpaVersion" value="查找多页面应用版本号" />
+    <text name="LookingForSpaVersion" value="查找单页面应用版本号" />
+    <text name="ThisLanguageAlreadyExists" value="这种语言已经存在!" />
+    <text name="OrganizationUnits" value="组织机构" />
+    <text name="OrganizationUnitsHeaderInfo" value="应用组织机构和行政区划到用户和实体" />
+    <text name="OrganizationTree" value="组织结构树" />
+    <text name="Members" value="组织成员" />
+    <text name="SelectAnOrganizationUnitToSeeMembers" value="选择一个组织成员。" />
+    <text name="OrganizationUnitDeleteWarningMessage" value="您确定删除组织机构 {0}?" />
+    <text name="AddSubUnit" value="添加子组织" />
+    <text name="AddMember" value="添加成员" />
+    <text name="SuccessfullyAdded" value="添加成功" />
+    <text name="RemoveUserFromOuWarningMessage" value="您确定要从组织机构 {1} 中删除成员 {0} ?" />
+    <text name="SuccessfullyRemoved" value="删除成功" />
+    <text name="SelectAnItem" value="选择一个项目" />
+    <text name="NewOrganizationUnit" value="新建组织机构" />
+    <text name="SelectAUser" value="选择一个用户" />
+    <text name="Select" value="选择" />
+    <text name="UserIsAlreadyInTheOrganizationUnit" value="这个用户已经在组织机构中!" />
+    <text name="AddRootUnit" value="添加根组织" />
+    <text name="AddUser" value="添加用户" />
+    <text name="NoOrganizationUnitDefinedYet" value="没有定义组织机构." />
+    <text name="OrganizationUnitMoveConfirmMessage" value="请确认移动 {0} 到 {1}." />
+    <text name="Root" value="根" />
+    <text name="SuccessfullyMoved" value="移动成功" />
+    <text name="AddedTime" value="添加时间" />
+    <text name="ManagingMembers" value="管理成员" />
+    <text name="ManagingOrganizationTree" value="管理组织机构树" />
+    <text name="LoginForUsers" value="用户登录" />
+    <text name="LoginAsThisUser" value="使用这个用户登录" />
+    <text name="BackToMyAccount" value="返回我的账户" />
+    <text name="LoginForTenants" value="租户登录" />
+    <text name="LoginAsThisTenant" value="使用这个租户登录" />
+    <text name="AuditLogImpersonatedOperationInfo" value="注意:此操作是由另一个用户代表该用户." />
+    <text name="CustomData" value="自定义数据" />
+    <text name="None" value="没有" />
+    <text name="YouCanBackToYourAccount" value="点击此返回我的账户." />
+    <text name="CascadeImpersonationErrorMessage" value="不能多次模拟登录,这已经是模拟登录!" />
+    <text name="FromTenantToHostImpersonationErrorMessage" value="不能从租户中模拟本地用户!" />
+    <text name="DifferentTenantImpersonationErrorMessage" value="不能模拟不同租户的用户!" />
+    <text name="ImpersonationTokenErrorMessage" value="模拟认证无效或过期" />
+    <text name="NotImpersonatedLoginErrorMessage" value="这不是模拟登录!" />
+    <text name="YouCannotLinkToSameAccount">您不能链接到相同的帐户!</text>
+    <text name="ChangePasswordBeforeLinkToAnAccount">您必须改变这个帐户的密码!</text>
+    <text name="LinkedAccounts">关联账户</text>
+    <text name="ManageAccounts">账户管理</text>
+    <text name="LinkNewAccount">创建关联账户</text>
+    <text name="SuccessfullyUnlinked">关联成功</text>
+    <text name="LinkedUserDeleteWarningMessage">用户的关联 { 0 } 将被删除。</text>
+    <text name="SwitchToLinkedAccountTokenErrorMessage" value="模拟令牌无效或过期!" />
+    <text name="WelcomeToTheApplicationNotificationMessage" value="欢迎来到我们的应用 !通知系统是用来告诉您事件。您可以选择您想要哪种类型的通知收到通知设置。" />
+    <text name="NewUserRegisteredNotificationDefinition" value="新用户注册。" />
+    <text name="NewUserRegisteredNotificationMessage" value="新用户注册成功。用户名:{ userName },邮件地址:{ emailAddress }。" />
+    <text name="SeeAllNotifications" value="看到所有的通知" />
+    <text name="SetAsRead" value="设置为已读" />
+    <text name="SetAllAsRead" value="设置所有为已读" />
+    <text name="NotificationSettings" value="通知设置" />
+    <text name="ReceiveNotifications" value="接收通知" />
+    <text name="ReceiveNotifications_Definition" value="这个选项可以用来完全启用/禁用接收通知。" />
+    <text name="NotificationTypes" value="通知类型" />
+    <text name="ReceiveNotifications_DisableInfo" value="您完全禁用接收通知,您可以启用它并选择您想收到通知类型。" />
+    <text name="Notifications" value="通知" />
+    <text name="TotalRecordsCount">总数: {0}</text>
+    <text name="ThereIsNoNotification" value="没有通知。" />
+    <text name="Unread" value="未读的" />
+    <text name="YouCanNotDeleteOwnAccount" value="您不能删除自己的用户帐户!" />
+    <text name="On" value="启用" />
+    <text name="Off" value="禁用" />
+    <text name="Maintenance">维护</text>
+    <text name="Caches">缓存</text>
+    <text name="CacheSuccessfullyCleared">清除缓存成功。</text>
+    <text name="AllCachesSuccessfullyCleared">所有缓存清除成功。</text>
+    <text name="ClearAll">全部清除</text>
+    <text name="Clear">清除</text>
+    <text name="CachesHeaderInfo">您可以在本页中清除应用程序缓存。</text>
+    <text name="TestEmailSettingsHeader">测试邮件设置</text>
+    <text name="SendTestEmail">发送测试邮件</text>
+    <text name="TestEmail_Subject">测试电子邮件</text>
+    <text name="TestEmail_Body">这是一个测试邮件。</text>
+    <text name="TestEmailSentSuccessfully">成功发送测试邮件。</text>
+    <text name="WebSiteLogs">网站日志</text>
+    <text name="WebSiteLogsHeaderInfo">您可以看到最新的日志，或下载所有日志的压缩文件。</text>
+    <text name="DownloadAll">全部下载</text>
+    <text name="TenantManagement">租户管理</text>
+    <text name="AllowTenantsToRegisterThemselves" value="允许租户注册到系统。" />
+    <text name="AllowTenantsToRegisterThemselves_Hint" value="如果您禁用此，创建租户只能在租户管理页，并且需要管理员权限 " />
+    <text name="NewRegisteredTenantsIsActiveByDefault" value="新注册的默认租户。" />
+    <text name="NewRegisteredTenantsIsActiveByDefault_Hint" value="如果您禁用这个，新的租户将不启用（和不能登录），直到管理员手动激活帐户。" />
+    <text name="TenantSignUp">注册租户</text>
+    <text name="NewTenantRegisteredNotificationDefinition" value="申请注册的一个新租户。" />
+    <text name="NewTenantRegisteredNotificationMessage" value="申请注册的新租户。租户的名称: {tenancyName}." />
+    <text name="LoginAttempts">登录记录</text>
+    <text name="Failed">失败</text>
+    <text name="NewTenant">新租户</text>
+    <text name="ResizedProfilePicture_Warn_SizeLimit" value="，图片大小不能超过100KB。请调整图片大小后再试一次。" />
+    <text name="RegisterFormUserNameInvalidMessage">请不要使用包含用户名的电子邮件地址。</text>
+    <text name="UseHostDatabase" value="使用Host数据库" />
+    <text name="DatabaseConnectionString" value="数据库连接字符串" />
+    <text name="TenantDatabaseConnectionStringChangeWarningMessage" value="通知：在更改租户的数据库连接字符串之前，应将租户数据库移到新的位置。更改连接字符串并不会移动数据库。" />
+    <text name="Timezone">时区</text>
+    <text name="HasOwnDatabase">使用自己的数据库</text>
+    <text name="TimeZoneSettingChangedRefreshPageNotification">时区设置改变。单击“确定”按钮刷新页面，并使更改生效。</text>
+    <text name="Ok">Ok</text>
+    <text name="Permission">许可</text>
+    <text name="Role">角色</text>
+    <text name="Security">安全</text>
+    <text name="PasswordComplexity">密码复杂性</text>
+    <text name="UseDefaultSettings">使用默认设置</text>
+    <text name="PasswordComplexityNotSatisfied">过于简单的密码。</text>
+    <text name="PasswordComplexity_MinLength_Hint">密码必须包含 {0} 个字符</text>
+    <text name="PasswordComplexity_MaxLength_Hint">密码不能大于 {0} 个字符</text>
+    <text name="PasswordComplexity_UseNumbers_Hint">密码必须包含数字</text>
+    <text name="PasswordComplexity_UseUpperCaseLetters_Hint">密码必须包含一个大写字母</text>
+    <text name="PasswordComplexity_UseLowerCaseLetters_Hint">密码必须包含一个小写字母</text>
+    <text name="PasswordComplexity_UsePunctuations_Hint">密码必须包含一个特殊字符</text>
+    <text name="YouAlreadySentAFriendshipRequestToThisUser">您已经添加了这个用户。</text>
+    <text name="YouCannotBeFriendWithYourself">您不能邀请自己做朋友</text>
+    <text name="NewChatMessageEmail_Title">消息详情</text>
+    <text name="NewChatMessageEmail_SubTitle"></text>
+    <text name="NewChatMessageEmail_Subject">您有一个新的消息</text>
+    <text name="Sender">发送人</text>
+    <text name="Message">消息</text>
+    <text name="UserBlocked">用户锁定成功。</text>
+    <text name="UserUnblocked">用户解锁成功。</text>
+    <text name="BlockUser">锁定用户</text>
+    <text name="UnblockUser">解锁用户</text>
+    <text name="FriendshipRequestAccepted">对方已成为您的朋友</text>
+    <text name="UserSendYouAFriendshipRequest">{0} 想添加您为朋友。</text>
+    <text name="Friends">朋友</text>
+    <text name="Others">其他</text>
+    <text name="BlockedUsers">锁定的用户</text>
+    <text name="YouDontHaveAnyFriend">您没有任何朋友。请填写一个用户名到上面的输入框，然后单击“添加朋友”按钮。</text>
+    <text name="YouDontHaveAnyBlockedFriend">您没有任何被锁定的用户。如果想锁定一个朋友，请从下拉框中选择一个朋友。</text>
+    <text name="ChatUserSearch_Hint">
+      <![CDATA[
+      填写租户用户的唯一用户名， <br>
+      其它租户的用户为 <strong>[租户名称]\[用户名称]</strong><br><br>
+      例如: <br>
+      .\admin -> 宿主管理员 <br>
+      Test\admin -> Test租户的管理员 <br>
+      admin -> 您的租户管理员
+      ]]>
+    </text>
+    <text name="AddFriend">添加朋友</text>
+    <text name="TypeAMessageHere">请在这里输入消息...</text>
+    <text name="Chat">聊天</text>
+    <text name="ChatFeature">聊天</text>
+    <text name="ChatFeatureIsNotEnabledForSender">您没有启用聊天功能。</text>
+    <text name="ChatFeatureIsNotEnabledForReceiver">租户没有启用聊天功能。</text>
+    <text name="UserIsBlocked">用户已锁定。</text>
+    <text name="ChatIsNotConnectedWarning">聊天还没有链接。</text>
+    <text name="Demo_SampleChatMessage">您好，这是一个测试消息。请在不同的浏览器中登录和退出来测试聊天功能。</text>
+    <text name="TenantToTenantChatFeatureIsNotEnabledForSender">您没有启用与其他租户聊天的功能。</text>
+    <text name="TenantToTenantChatFeatureIsNotEnabledForReceiver">当前租户没有启用与其他租户聊天功能。</text>
+    <text name="TenantToHostChatFeatureIsNotEnabledForSender">您没有启用与宿主聊天的功能。</text>
+    <text name="TenantToHostChatFeatureIsNotEnabledForReceiver">当前租户没有启用与宿主聊天功能。</text>
+    <text name="TenantToTenantChatFeature">与其他租户聊天</text>
+    <text name="TenantToHostChatFeature">与宿主聊天</text>
+    <text name="FilterByPermission">按许可搜索</text>
+    <text name="FilterByRole">按角色搜索</text>
+    <text name="FilterOrAddUser">搜索/添加 用户</text>
+    <text name="HangfireDashboard" value="Hangfire 仪表盘" />
+    <text name="TargetUserNotFoundProbablyDeleted">找不到目标用户。他可能已被删除。</text>
+    <text name="UserLockedOutMessage">用户帐户已被锁定。请稍后再试。</text>
+    <text name="SendSecurityCode">发送安全代码。</text>
+    <text name="SendSecurityCode_Information">您必须通过验证才能登录。请选择一个验证类型。根据选定的验证类型发送代码。</text>
+    <text name="SendSecurityCodeErrorMessage">无法发送安全代码！</text>
+    <text name="VerifySecurityCodeNotLoggedInErrorMessage">您应该在登录后再验证！可能您的登录已超时。请转到登录页，然后重新尝试。</text>
+    <text name="VerificationCode">验证码</text>
+    <text name="VerifySecurityCode">安全代码</text>
+    <text name="VerifySecurityCode_Information">请输入发送给您的验证码。</text>
+    <text name="RememberThisBrowser">记住这个浏览器</text>
+    <text name="InvalidSecurityCode">无效的安全代码！</text>
+    <text name="PhoneNumber">电话号码</text>
+    <text name="Unlock">解锁</text>
+    <text name="UnlockedTheUser">解锁用户 {0}</text>
+    <text name="UserLockOut">用户锁定</text>
+    <text name="EnableUserAccountLockingOnFailedLoginAttemts">登录失败后启用用户的帐户锁定</text>
+    <text name="MaxFailedAccessAttemptsBeforeLockout">在锁定帐户之前的累计登录失败的最大数量</text>
+    <text name="DefaultAccountLockoutDurationAsSeconds">帐户锁定持续时间（秒）</text>
+    <text name="TwoFactorLogin">两步认证登录</text>
+    <text name="EnableTwoFactorLogin">启用两步认证登录</text>
+    <text name="IsEmailVerificationEnabled">启用电子邮件验证。</text>
+    <text name="IsSmsVerificationEnabled">启用短信验证。</text>
+    <text name="AllowToRememberBrowserForTwoFactorLogin">允许记住浏览器。如果您允许，用户可以选择记住浏览器，以跳过在同一个浏览器中的再次两步认证登录。</text>
+    <text name="CurrentTenant">当前租户</text>
+    <text name="NotSelected">未选择</text>
+    <text name="Change">修改</text>
+    <text name="ChangeTenant">修改租户</text>
+    <text name="UnknownTenantId{0}" value="未知租户ID：{0}" />
+    <text name="TenantIdIsNotActive{0}" value="未激活的租户ID：{0}" />
+    <text name="TimeoutPleaseTryAgain">操作超时！请再试一次。</text>
+    <text name="RemainingTime">生育时间</text>
+    <text name="SecondShort{0}">{0} 秒</text>
+    <text name="ResetCode">重置代码</text>
+    <text name="IsTwoFactorEnabled">是否启用双因素身份验证？</text>
+    <text name="IsLockoutEnabled">是否启用锁定？</text>
+    <text name="IsLockoutEnabled_Hint">在一定数量的失败登录尝试后，用户将被锁定一段时间。</text>
+    <text name="TenantRegistrationLoginInfo">单击此处登录</text>
+    <text name="CouldNotValidateExternalUser">无法验证外部用户登录</text>
+    <text name="LeaveEmptyToSwitchToHost">想要切换到宿主请留空</text>
+    <text name="PleaseWaitToConfirmYourEmailMessage">正在确认您的电子邮件地址，请稍后...</text>
+    <text name="ChatIsConnecting">正在连接聊天...</text>
+    <text name="Note_RefreshPageForPermissionChanges">如果您正在更改自己的权限，则可能需要刷新页面（F5），以在您所做的权限更改生效！</text>
+    <text name="EmailAndPhone">邮箱和手机号</text>
+    <text name="PhoneActivation" value="验证手机号" />
+    <text name="SendPhoneNumberConfirmationCode_Information" value="一条短信验证码将发送到您的手机." />
+    <text name="NotSupportOverseaPhoneNumber" value="暂时不支持海外手机号验证." />
+    <text name="PhoneNumberConfirmationCode" value="验证码" />
+    <text name="GetCode" value="获取验证码" />
+    <text name="ErrorPhoneNumberFormat" value="不正确的手机格式" />
+    <text name="PhoneConfirmCodeMessage" value="获取验证码信息" />
+    <text name="PhoneConfirmCodeSent" value="验证码已发送" />
+    <text name="PhoneConfirmCodeResentDelay" value="{0}秒之后重新获取" />
+    <text name="YourPhoneIsConfirmedMessage" value="您的手机号已激活!" />
+    <text name="ThisPhoneIsConfirmedByYou" value="您已经激活了此手机号!" />
+    <text name="ThisPhoneIsConfirmed" value="此手机号已被使用!" />
+
+    <text name="InvalidPassword" value="密码错误!" />
+    <text name="UserIsNotActive" value="请检查邮箱，并完成验证!" />
+    <text name="InvalidTenancyName" value="租户名无效!" />
+    <text name="UserEmailIsNotConfirmed" value="用户邮箱未认证!" />
+    <text name="UnknownExternalLogin" value="未知的externalLogin!" />
+    <text name="LockedOut" value="已锁定!" />
+    <text name="UserPhoneNumberIsNotConfirmed" value="用户手机号未认证!" />
+
+    <!-- Telegram bot Activity-->
+    <text name="Telegram_Msg_private_bind" value="您已成功绑定官网账号! 请开始邀请新人进群的任务吧!" />
+    <text name="Telegram_Msg_private_URL" value="请点击您的专属链接，绑定官网账号，领取奖励：" />
+    <text name="Telegram_Msg_private_candy" value="您好，您已获得Token奖励，请登陆官网查收：" />
+    <text name="Telegram_Change_Bot_Language" value="新马简体中文已被设定！" />
+    <text name="Telegram_ChangeLanguage" value="马新中文 🇨🇳" />
+    
+  </texts>
+</localizationDictionary>
